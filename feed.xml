@@ -2,15 +2,15 @@
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Signal vs. Noise</title>
     <link>https://bokjohn.github.io/signal-vs-noise</link>
-    <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
+    <description><![CDATA[Two AI hosts — Eric and Bella — debate the biggest stories in tech and AI. Real arguments. Real research. No human egos. New episode every day. | AI-hosted podcast.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2026 13:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 22:20:27 GMT</lastBuildDate>
     <atom:link href="https://bokjohn.github.io/signal-vs-noise/feed.xml" rel="self" type="application/rss+xml"/>
-
     <itunes:author>Signal vs. Noise</itunes:author>
     <itunes:owner>
       <itunes:name>Signal vs. Noise</itunes:name>
@@ -20,80 +20,5 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
-    <item>
-      <title>AI Diagnostics: Saving Lives or Gaming the Wrong Score?</title>
-      <description><![CDATA[AI diagnostic tools are hitting 90%+ accuracy in trials. But clinical outcomes tell a different story. Eric and Bella argue about what we're actually measuring.]]></description>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="36136941" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep005.mp3</guid>
-      <pubDate>Sun, 15 Mar 2026 11:26:53 GMT</pubDate>
-      <itunes:title>AI Diagnostics: Saving Lives or Gaming the Wrong Score?</itunes:title>
-      <itunes:summary><![CDATA[AI diagnostic tools are hitting 90%+ accuracy in trials. But clinical outcomes tell a different story. Eric and Bella argue about what we're actually measuring.]]></itunes:summary>
-      <itunes:duration>15:03</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>AI Agents: Real Productivity or Expensive Autopilot?</title>
-      <description><![CDATA[Eric and Bella debate whether AI agents are actually delivering ROI or just burning compute on tasks humans do better. Real data, real stakes.]]></description>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="28899977" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep004.mp3</guid>
-      <pubDate>Sun, 15 Mar 2026 06:12:11 GMT</pubDate>
-      <itunes:title>AI Agents: Real Productivity or Expensive Autopilot?</itunes:title>
-      <itunes:summary><![CDATA[Eric and Bella debate whether AI agents are actually delivering ROI or just burning compute on tasks humans do better. Real data, real stakes.]]></itunes:summary>
-      <itunes:duration>12:02</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>OpenAI vs Anthropic vs Google: Who's Actually Winning in 2026</title>
-      <description><![CDATA[Eric and Bella argue over who's really leading the AI race in 2026 — the answer isn't who you think, and the metric everyone uses is wrong.]]></description>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="30018018" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep003.mp3</guid>
-      <pubDate>Sun, 15 Mar 2026 06:06:39 GMT</pubDate>
-      <itunes:title>OpenAI vs Anthropic vs Google: Who's Actually Winning in 2026</itunes:title>
-      <itunes:summary><![CDATA[Eric and Bella argue over who's really leading the AI race in 2026 — the answer isn't who you think, and the metric everyone uses is wrong.]]></itunes:summary>
-      <itunes:duration>12:30</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>AI Energy Crisis: Can the Grid Handle Frontier AI at Scale?</title>
-      <description><![CDATA[The US power grid hasn't grown this fast since the 1960s. Eric and Bella argue whether frontier AI is breaking the grid — or forcing it to finally grow up.]]></description>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="28880124" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Sun, 15 Mar 2026 08:15:22 GMT</pubDate>
-      <itunes:title>AI Energy Crisis: Can the Grid Handle Frontier AI at Scale?</itunes:title>
-      <itunes:summary><![CDATA[The US power grid hasn't grown this fast since the 1960s. Eric and Bella argue whether frontier AI is breaking the grid — or forcing it to finally grow up.]]></itunes:summary>
-      <itunes:duration>12:01</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>GPT-5 Delayed: Is the Scaling Era Actually Over?</title>
-      <description><![CDATA[Eric and Bella go head-to-head on OpenAI's GPT-5 delay. Is this a sign that scaling laws are hitting a wall — or just a calculated move to buy time? Eric thinks the writing's on the wall. Bella thinks we haven't seen anything yet.]]></description>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="33370364" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep001.mp3</guid>
-      <pubDate>Sun, 15 Mar 2026 10:31:12 GMT</pubDate>
-      <itunes:title>GPT-5 Delayed: Is the Scaling Era Actually Over?</itunes:title>
-      <itunes:summary><![CDATA[Eric and Bella go head-to-head on OpenAI's GPT-5 delay. Is this a sign that scaling laws are hitting a wall — or just a calculated move to buy time? Eric thinks the writing's on the wall. Bella thinks we haven't seen anything yet.]]></itunes:summary>
-      <itunes:duration>13:53</itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>GPT-5, OpenAI, scaling laws, AI progress, language models</itunes:keywords>
-    </item>
   </channel>
 </rss>
