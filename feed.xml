@@ -8,7 +8,7 @@
     <link>https://bokjohn.github.io/signal-vs-noise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 07:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:43:33 GMT</lastBuildDate>
     <atom:link href="https://bokjohn.github.io/signal-vs-noise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -16,129 +16,24 @@
       <itunes:name>Signal vs. Noise</itunes:name>
       <itunes:email>bokjohnkim@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://bokjohn.github.io/signal-vs-noise/assets/cover-art.jpg"/>
+    <itunes:image href="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>AI vs Software Engineers: The 5-Year Replacement Question</title>
-      <description><![CDATA[George and Sarah argue the real numbers behind AI replacing devs — and why the answer depends on which engineer you're asking about.]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-009.mp3" length="6015980" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-009.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 05:42:49 GMT</pubDate>
-      <itunes:title>AI vs Software Engineers: The 5-Year Replacement Question</itunes:title>
-      <itunes:summary><![CDATA[George and Sarah argue the real numbers behind AI replacing devs — and why the answer depends on which engineer you're asking about.]]></itunes:summary>
-      <itunes:duration>12:31</itunes:duration>
-      <itunes:episode>9</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>AI vs Software Engineers: The 5-Year Replacement Question</title>
-      <description><![CDATA[George and Sarah argue the real numbers behind AI replacing devs — and why the answer depends on which engineer you're asking about.]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-008.mp3" length="17958704" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-008.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 06:05:11 GMT</pubDate>
-      <itunes:title>AI vs Software Engineers: The 5-Year Replacement Question</itunes:title>
-      <itunes:summary><![CDATA[George and Sarah argue the real numbers behind AI replacing devs — and why the answer depends on which engineer you're asking about.]]></itunes:summary>
-      <itunes:duration>12:28</itunes:duration>
-      <itunes:episode>8</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>AI Replace Software Engineers? The 5-Year Claim, Examined</title>
-      <description><![CDATA[George and Sarah debate whether AI will replace software engineers in 5 years — using real data, real companies, and zero hype. Spoiler: they disagree.]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-007.mp3" length="8197484" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-007.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 04:37:39 GMT</pubDate>
-      <itunes:title>AI Replace Software Engineers? The 5-Year Claim, Examined</itunes:title>
-      <itunes:summary><![CDATA[George and Sarah debate whether AI will replace software engineers in 5 years — using real data, real companies, and zero hype. Spoiler: they disagree.]]></itunes:summary>
-      <itunes:duration>8:32</itunes:duration>
-      <itunes:episode>7</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>AI vs Software Engineers: The 5-Year Replacement Question</title>
-      <description><![CDATA[George and Sarah debate whether AI will replace software engineers by 2030 — and the answer is weirder than either side admits.]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-006.mp3" length="3959660" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-006.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 04:01:40 GMT</pubDate>
-      <itunes:title>AI vs Software Engineers: The 5-Year Replacement Question</itunes:title>
-      <itunes:summary><![CDATA[George and Sarah debate whether AI will replace software engineers by 2030 — and the answer is weirder than either side admits.]]></itunes:summary>
-      <itunes:duration>8:14</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>Episode 5</title>
-      <description><![CDATA[Episode 5]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-005.mp3" length="12410885" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-005.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 03:28:52 GMT</pubDate>
-      <itunes:title>Episode 5</itunes:title>
-      <itunes:summary><![CDATA[Episode 5]]></itunes:summary>
-      <itunes:duration>13:21</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>Will AI Replace Software Engineers in 5 Years? The Real Answer.</title>
-      <description><![CDATA[George and Sarah debate the question every developer is actually afraid to Google: is this the beginning of the end for software engineering jobs? George thinks the hype is decades ahead of reality. Sarah has the receipts — and they're uncomfortable. They dig into the Anthropic research, the GitHub Copilot numbers, what Devin actually ships, and what 'replacement' even means when the job keeps mutating. No soft-pedaling. Real disagreement. No resolution that satisfies everyone.]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-003.mp3" length="12416767" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-003.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 05:10:15 GMT</pubDate>
-      <itunes:title>Will AI Replace Software Engineers in 5 Years? The Real Answer.</itunes:title>
-      <itunes:summary><![CDATA[George and Sarah debate the question every developer is actually afraid to Google: is this the beginning of the end for software engineering jobs? George thinks the hype is decades ahead of reality. Sarah has the receipts — and they're uncomfortable. They dig into the Anthropic research, the GitHub Copilot numbers, what Devin actually ships, and what 'replacement' even means when the job keeps mutating. No soft-pedaling. Real disagreement. No resolution that satisfies everyone.]]></itunes:summary>
-      <itunes:duration>8:36</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>AI replacing software engineers, AI coding tools, Devin AI, GitHub Copilot, future of software engineering, developer jobs AI, AI job displacement</itunes:keywords>
-    </item>
-
-    <item>
-      <title>Episode 2</title>
-      <description><![CDATA[Episode 2]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-002.mp3" length="7992258" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-002.mp3</guid>
-      <pubDate>Fri, 13 Mar 2026 07:31:13 GMT</pubDate>
-      <itunes:title>Episode 2</itunes:title>
-      <itunes:summary><![CDATA[Episode 2]]></itunes:summary>
-      <itunes:duration>8:19</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-    </item>
-
-    <item>
-      <title>Episode 1</title>
-      <description><![CDATA[Episode 1]]></description>
-      <enclosure url="https://bokjohn.github.io/signal-vs-noise/episodes/test-ep-001.mp3" length="12310512" type="audio/mpeg"/>
-      <guid isPermaLink="false">test-ep-001.mp3</guid>
-      <pubDate>Sat, 14 Mar 2026 02:51:25 GMT</pubDate>
-      <itunes:title>Episode 1</itunes:title>
-      <itunes:summary><![CDATA[Episode 1]]></itunes:summary>
-      <itunes:duration>13:09</itunes:duration>
+      <title>GPT-5 Delayed: Is the Scaling Era Actually Over?</title>
+      <description><![CDATA[Eric and Bella go head-to-head on OpenAI's GPT-5 delay. Is this a sign that scaling laws are hitting a wall — or just a calculated move to buy time? Eric thinks the writing's on the wall. Bella thinks we haven't seen anything yet.]]></description>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="33370364" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sun, 15 Mar 2026 03:54:50 GMT</pubDate>
+      <itunes:title>GPT-5 Delayed: Is the Scaling Era Actually Over?</itunes:title>
+      <itunes:summary><![CDATA[Eric and Bella go head-to-head on OpenAI's GPT-5 delay. Is this a sign that scaling laws are hitting a wall — or just a calculated move to buy time? Eric thinks the writing's on the wall. Bella thinks we haven't seen anything yet.]]></itunes:summary>
+      <itunes:duration>13:53</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      
+      <itunes:keywords>GPT-5, OpenAI, scaling laws, AI progress, language models</itunes:keywords>
     </item>
   </channel>
 </rss>
