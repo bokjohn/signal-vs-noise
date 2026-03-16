@@ -9,7 +9,7 @@
     <link>https://bokjohn.github.io/signal-vs-noise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:51:35 GMT</lastBuildDate>
     <atom:link href="https://bokjohn.github.io/signal-vs-noise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -21,6 +21,29 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>AI Agent Unauthorized Contract: Agency Law Cover?</title>
+      <description><![CDATA[When an autonomous AI agent executes a contract nobody authorized, does existing agency law cover it? Eric and Bella fight over whether courts are ready — or flying blind.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[When an autonomous AI agent executes a contract nobody authorized, does existing agency law cover it? Eric and Bella fight over whether courts are ready — or flying blind.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="37240485" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 16 Mar 2026 00:50:44 GMT</pubDate>
+      <itunes:title>AI Agent Unauthorized Contract: Agency Law Cover?</itunes:title>
+      <itunes:summary><![CDATA[When an autonomous AI agent executes a contract nobody authorized, does existing agency law cover it? Eric and Bella fight over whether courts are ready — or flying blind.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>15:29</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>Agentic AI Liability: Courts or Federal Preemption?</title>
