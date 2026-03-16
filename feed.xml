@@ -9,7 +9,7 @@
     <link>https://bokjohn.github.io/signal-vs-noise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:01:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:11:24 GMT</lastBuildDate>
     <atom:link href="https://bokjohn.github.io/signal-vs-noise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -23,21 +23,21 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>Agentic AI Liability: Who Pays for Bad Contracts?</title>
-      <description><![CDATA[An AI agent signs a bad contract. Courts have no answer. States are writing 30 different ones. Eric and Bella fight about who's actually on the hook.
+      <title>Agentic AI Liability: Courts or Federal Preemption?</title>
+      <description><![CDATA[Courts haven't ruled. States are patchworking. Enterprises are deploying anyway. Eric and Bella argue over who holds the bag when autonomous AI agents go wrong.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[An AI agent signs a bad contract. Courts have no answer. States are writing 30 different ones. Eric and Bella fight about who's actually on the hook.
+      <content:encoded><![CDATA[Courts haven't ruled. States are patchworking. Enterprises are deploying anyway. Eric and Bella argue over who holds the bag when autonomous AI agents go wrong.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="37406746" type="audio/mpeg"/>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="37187124" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 00:00:07 GMT</pubDate>
-      <itunes:title>Agentic AI Liability: Who Pays for Bad Contracts?</itunes:title>
-      <itunes:summary><![CDATA[An AI agent signs a bad contract. Courts have no answer. States are writing 30 different ones. Eric and Bella fight about who's actually on the hook.
+      <pubDate>Mon, 16 Mar 2026 00:10:38 GMT</pubDate>
+      <itunes:title>Agentic AI Liability: Courts or Federal Preemption?</itunes:title>
+      <itunes:summary><![CDATA[Courts haven't ruled. States are patchworking. Enterprises are deploying anyway. Eric and Bella argue over who holds the bag when autonomous AI agents go wrong.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>15:34</itunes:duration>
+      <itunes:duration>15:28</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
