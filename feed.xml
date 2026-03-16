@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 14:28:39 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -24,6 +24,29 @@
     <itunes:keywords>artificial intelligence, AI, AI agents, machine learning, AI law, tech news, autonomous systems, AI ethics, technology, future of work, large language models, AI regulation, daily podcast, AI debate</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Morgan Stanley AI Breakthrough 2026: Real or Hype?</title>
+      <description><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep006.mp3" length="30522410" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep006.mp3</guid>
+      <pubDate>Mon, 16 Mar 2026 07:09:35 GMT</pubDate>
+      <itunes:title>Morgan Stanley AI Breakthrough 2026: Real or Hype?</itunes:title>
+      <itunes:summary><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>EU AI Act August 2026: Impact on US Regulation</title>
