@@ -6,11 +6,11 @@
   xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Signal vs. Noise</title>
-    <link>https://bokjohn.github.io/signal-vs-noise</link>
+    <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 01:59:29 GMT</lastBuildDate>
-    <atom:link href="https://bokjohn.github.io/signal-vs-noise/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 16 Mar 2026 04:35:28 GMT</lastBuildDate>
+    <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
     <itunes:owner>
@@ -49,18 +49,18 @@ Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
     </item>
 
     <item>
-      <title>Agentic AI Liability: Courts or Federal Preemption?</title>
-      <description><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <title>GPT-5 Delayed: Is the Scaling Era Actually Over?</title>
+      <description><![CDATA[OpenAI keeps pushing GPT-5. Is this a technical ceiling, a strategy shift, or proof that bigger models stopped getting smarter? Eric and Bella argue it out.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <content:encoded><![CDATA[OpenAI keeps pushing GPT-5. Is this a technical ceiling, a strategy shift, or proof that bigger models stopped getting smarter? Eric and Bella argue it out.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
       <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="37187124" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
       <pubDate>Mon, 16 Mar 2026 00:10:38 GMT</pubDate>
-      <itunes:title>Agentic AI Liability: Courts or Federal Preemption?</itunes:title>
-      <itunes:summary><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <itunes:title>GPT-5 Delayed: Is the Scaling Era Actually Over?</itunes:title>
+      <itunes:summary><![CDATA[OpenAI keeps pushing GPT-5. Is this a technical ceiling, a strategy shift, or proof that bigger models stopped getting smarter? Eric and Bella argue it out.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
       <itunes:duration>15:28</itunes:duration>
