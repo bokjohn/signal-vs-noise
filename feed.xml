@@ -6,11 +6,11 @@
   xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Signal vs. Noise</title>
-    <link>https://getmabs.com/podcast</link>
+    <link>https://getmabs.com/podcast/signalvsnoise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 14:28:39 GMT</lastBuildDate>
-    <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 16 Mar 2026 17:58:35 GMT</lastBuildDate>
+    <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
     <itunes:owner>
