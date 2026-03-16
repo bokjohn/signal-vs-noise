@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 07:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 13:08:11 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -24,6 +24,29 @@
     <itunes:keywords>artificial intelligence, AI, AI agents, machine learning, AI law, tech news, autonomous systems, AI ethics, technology, future of work, large language models, AI regulation, daily podcast, AI debate</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>EU AI Act August 2026: Impact on US Regulation</title>
+      <description><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="42073787" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep005.mp3</guid>
+      <pubDate>Mon, 16 Mar 2026 13:07:18 GMT</pubDate>
+      <itunes:title>EU AI Act August 2026: Impact on US Regulation</itunes:title>
+      <itunes:summary><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>17:30</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>Senate GOP Deepfake Ad: Free Speech or Illegal?</title>
