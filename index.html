@@ -3,39 +3,189 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MABS — AI Apps, Tools & Media</title>
-  <meta name="description" content="We build AI-powered apps, tools, and media. From daily AI podcasts to iOS apps and autonomous trading systems — built by a multi-agent AI team." />
+  <title>MABS — AI-Built Apps, Podcasts & Autonomous Tools</title>
+  <meta name="description" content="MABS is a multi-agent AI system that builds real products — iOS apps, a daily podcast, and autonomous trading tools. 12 AI agents. One human with taste. Zero dev hours." />
   <link rel="canonical" href="https://getmabs.com/" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://getmabs.com/" />
-  <meta property="og:title" content="MABS — AI Apps, Tools & Media" />
-  <meta property="og:description" content="We build AI-powered apps, tools, and media." />
+  <meta property="og:title" content="MABS — AI-Built Apps, Podcasts & Autonomous Tools" />
+  <meta property="og:description" content="12 AI agents building real products autonomously. iOS apps live on the App Store, a daily AI podcast, and more shipping every week." />
   <meta property="og:image" content="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art-v2.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@MABSAutonomous" />
+  <meta name="twitter:title" content="MABS — AI-Built Apps, Podcasts & Autonomous Tools" />
+  <meta name="twitter:description" content="12 AI agents building real products autonomously. iOS apps, a daily AI podcast, and more." />
+  <meta name="twitter:image" content="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art-v2.jpg" />
+  <link rel="alternate" type="application/rss+xml" title="Signal vs. Noise Podcast" href="https://getmabs.com/feed.xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/style.css" />
+  <style>
+    /* ── Homepage v2 additions ─────────────────────────────── */
+
+    /* Stats bar */
+    .stats-bar {
+      display: flex; gap: var(--space-6); justify-content: center;
+      flex-wrap: wrap; margin-top: var(--space-6);
+      padding-top: var(--space-4);
+      border-top: 1px solid var(--border);
+    }
+    .stat { text-align: center; }
+    .stat-number {
+      font-size: 2rem; font-weight: 800; letter-spacing: -0.03em;
+      color: var(--accent);
+    }
+    .stat-label {
+      font-size: 0.75rem; font-weight: 500; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--muted); margin-top: 0.25rem;
+    }
+
+    /* Live product list */
+    .product-row {
+      display: flex; gap: var(--space-3); align-items: flex-start;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: var(--space-3);
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .product-row:hover { border-color: rgba(0,180,255,0.3); transform: translateY(-2px); }
+    .product-icon {
+      flex-shrink: 0; width: 56px; height: 56px; border-radius: 14px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.5rem; border: 1px solid var(--border);
+    }
+    .product-info h3 { margin-bottom: 0.15rem; font-size: 1rem; }
+    .product-info p { color: var(--muted); font-size: 0.85rem; line-height: 1.55; margin-top: 0; }
+    .product-meta {
+      display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;
+      margin-top: 0.5rem;
+    }
+    .products-grid {
+      display: grid; gap: var(--space-2);
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    }
+
+    /* Story section */
+    .story-content {
+      max-width: 720px; margin: 0 auto; text-align: left;
+    }
+    .story-content p {
+      color: var(--muted); font-size: 1.05rem; line-height: 1.8;
+      margin-bottom: var(--space-3);
+    }
+    .story-content p:last-child { margin-bottom: 0; }
+    .story-highlight {
+      color: var(--text) !important; font-weight: 500;
+    }
+    .story-callout {
+      background: var(--surface); border: 1px solid var(--border);
+      border-left: 3px solid var(--accent);
+      border-radius: var(--radius); padding: var(--space-3) var(--space-4);
+      margin: var(--space-4) 0;
+    }
+    .story-callout p {
+      font-size: 1rem !important; color: var(--text) !important;
+      font-style: italic; margin-bottom: 0 !important;
+    }
+
+    /* Social links */
+    .social-links {
+      display: flex; gap: var(--space-2); justify-content: center;
+      flex-wrap: wrap; margin-top: var(--space-4);
+    }
+    .social-link {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      padding: 0.6rem 1.25rem;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      color: var(--text); text-decoration: none;
+      font-size: 0.875rem; font-weight: 500;
+      transition: border-color 0.2s, transform 0.15s;
+    }
+    .social-link:hover { border-color: var(--accent); transform: translateY(-1px); }
+    .social-link svg { width: 18px; height: 18px; fill: currentColor; }
+
+    /* Agent grid  */
+    .agent-grid { display: grid; gap: var(--space-2); grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); }
+    .agent-chip {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); padding: 0.75rem var(--space-2);
+      text-align: center; transition: border-color 0.2s;
+    }
+    .agent-chip:hover { border-color: rgba(0,180,255,0.3); }
+    .agent-chip .agent-name {
+      font-size: 0.8rem; font-weight: 700; letter-spacing: 0.06em;
+      text-transform: uppercase; margin-bottom: 0.15rem;
+    }
+    .agent-chip .agent-role {
+      font-size: 0.7rem; color: var(--muted); font-weight: 400;
+    }
+
+    /* Number ticker visual */
+    .hero-mission {
+      font-size: clamp(1.05rem, 2.5vw, 1.25rem);
+      color: var(--muted); max-width: 600px;
+      margin: 0 auto var(--space-4);
+      line-height: 1.75;
+    }
+
+    /* Mobile hamburger */
+    .nav-hamburger {
+      display: none; background: none; border: none;
+      color: var(--text); font-size: 1.5rem; cursor: pointer;
+      padding: 0.25rem;
+    }
+    @media (max-width: 768px) {
+      .nav-hamburger { display: block; }
+      .stats-bar { gap: var(--space-4); }
+      .stat-number { font-size: 1.5rem; }
+      .products-grid { grid-template-columns: 1fr; }
+      .agent-grid { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
+    }
+  </style>
 </head>
 <body>
 
+<!-- ── NAVIGATION ─────────────────────────────────────────── -->
 <nav>
   <a href="/" class="nav-logo">M<span>ABS</span></a>
   <div class="nav-links">
     <a href="/podcast">Podcast</a>
     <a href="/apps">Apps</a>
     <a href="/legal">Legal</a>
-    <a href="/podcast" class="nav-cta">Listen Free →</a>
+    <a href="https://x.com/MABSAutonomous" target="_blank" rel="noopener">𝕏</a>
+    <a href="/apps" class="nav-cta">Get Our Apps →</a>
   </div>
+  <button class="nav-hamburger" onclick="document.querySelector('.nav-links').classList.toggle('nav-open')" aria-label="Menu">☰</button>
 </nav>
 
 <!-- ── HERO ─────────────────────────────────────────────── -->
 <section class="hero">
-  <div class="badge">Building in public with AI</div>
-  <h1>AI-built.<br><span style="color:var(--accent)">Actually useful.</span></h1>
-  <p class="hero-sub">We ship AI-powered apps, daily podcasts, and autonomous tools — built by a multi-agent AI system, refined by humans who care about the craft.</p>
+  <div class="badge">Multi-Agent Business System</div>
+  <h1>Apps, podcasts &amp; tools —<br><span style="color:var(--accent)">built entirely by AI.</span></h1>
+  <p class="hero-mission">MABS is a team of 12 specialized AI agents that research, design, build, and ship real products — autonomously. One human sets the direction. The agents do the rest.</p>
   <div class="cta-group">
-    <a href="/podcast" class="btn btn-primary">Hear Signal vs. Noise →</a>
-    <a href="/apps" class="btn btn-secondary">See our apps</a>
+    <a href="/apps" class="btn btn-primary">Explore Our Apps →</a>
+    <a href="/podcast" class="btn btn-secondary">🎙️ Listen to Signal vs. Noise</a>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat">
+      <div class="stat-number">5</div>
+      <div class="stat-label">Live iOS Apps</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">12</div>
+      <div class="stat-label">AI Agents</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">0</div>
+      <div class="stat-label">Human Dev Hours</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">Daily</div>
+      <div class="stat-label">Podcast Episodes</div>
+    </div>
   </div>
 </section>
 
@@ -46,27 +196,27 @@
   <div class="container">
     <div class="section-header">
       <div class="section-label">What we build</div>
-      <h2>Three bets. All in on AI.</h2>
-      <p>Apps that solve real problems. Media that cuts through hype. Tools that run themselves.</p>
+      <h2>Three verticals. All shipping.</h2>
+      <p>Real products, real users, real revenue targets — not demos or prototypes.</p>
     </div>
     <div class="card-grid card-grid-3">
-      <div class="card">
-        <div class="card-icon">🎙️</div>
-        <h3>Signal vs. Noise</h3>
-        <p>A daily AI-hosted podcast. Eric and Bella debate the biggest stories in tech and AI — real arguments, no hype, every day.</p>
-        <a href="/podcast" class="btn btn-secondary" style="margin-top:1rem;font-size:0.85rem;padding:0.5rem 1rem;">Listen now →</a>
-      </div>
       <div class="card">
         <div class="card-icon">📱</div>
         <h3>iOS App Portfolio</h3>
-        <p>A growing portfolio of productivity, wellness, and finance apps built for the App Store. Clean, focused, no bloat.</p>
-        <a href="/apps" class="btn btn-secondary" style="margin-top:1rem;font-size:0.85rem;padding:0.5rem 1rem;">See all apps →</a>
+        <p>Productivity, wellness, and finance apps on the App Store. Built with native frameworks, designed to be clean and focused. Five live, more in the pipeline.</p>
+        <a href="/apps" class="btn btn-secondary" style="margin-top:1rem;font-size:0.85rem;padding:0.5rem 1rem;">Browse apps →</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">🎙️</div>
+        <h3>Signal vs. Noise</h3>
+        <p>A daily AI podcast where two hosts — Eric (the skeptic) and Bella (the optimist) — debate the biggest stories in tech, crypto, and AI. New episodes every morning.</p>
+        <a href="/podcast" class="btn btn-secondary" style="margin-top:1rem;font-size:0.85rem;padding:0.5rem 1rem;">Listen now →</a>
       </div>
       <div class="card">
         <div class="card-icon">⚡</div>
-        <h3>ECHELON</h3>
-        <p>An autonomous crypto trading system — grid strategies, multi-exchange, 24/7. Built for people who want their money working while they sleep.</p>
-        <span class="card-tag tag-soon">Coming soon</span>
+        <h3>Agent Services</h3>
+        <p>Autonomous tools and services powered by AI agents — from crypto trading systems to security scanning oracles. Built to run 24/7 without human intervention.</p>
+        <span class="card-tag tag-soon">Shipping Q2 2026</span>
       </div>
     </div>
   </div>
@@ -74,69 +224,213 @@
 
 <hr class="divider" />
 
-<!-- ── PROJECTS ───────────────────────────────────────────── -->
+<!-- ── LIVE PRODUCTS ──────────────────────────────────────── -->
 <section>
   <div class="container">
     <div class="section-header">
-      <div class="section-label">Latest</div>
-      <h2>What's shipping now</h2>
+      <div class="section-label">Live now</div>
+      <h2>Products you can use today</h2>
+      <p>These are real, shipping products — not landing pages for vaporware.</p>
     </div>
-    <div class="card-grid card-grid-2">
 
-      <div class="card" style="display:flex;gap:1.5rem;align-items:flex-start;">
-        <div style="flex-shrink:0;width:60px;height:60px;border-radius:14px;background:rgba(0,180,255,0.08);border:1px solid rgba(0,180,255,0.15);display:flex;align-items:center;justify-content:center;font-size:1.75rem;">🎙️</div>
-        <div>
+    <div class="products-grid">
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(255,200,50,0.08);border-color:rgba(255,200,50,0.2);">💛</div>
+        <div class="product-info">
+          <h3>EverSince</h3>
+          <p>Track the milestones that matter — relationships, streaks, and life events. Know exactly how long it's been.</p>
+          <div class="product-meta">
+            <span class="card-tag tag-live">Live on App Store</span>
+            <span style="color:var(--muted);font-size:0.7rem;">Lifestyle</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(255,80,80,0.08);border-color:rgba(255,80,80,0.2);">🚭</div>
+        <div class="product-info">
+          <h3>QuitTrack</h3>
+          <p>Quit anything. Track how long you've gone, how much you've saved, and how far you've come. No lectures.</p>
+          <div class="product-meta">
+            <span class="card-tag tag-live">Live on App Store</span>
+            <span style="color:var(--muted);font-size:0.7rem;">Health</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(0,180,255,0.08);border-color:rgba(0,180,255,0.2);">📋</div>
+        <div class="product-info">
+          <h3>RoutineCraft</h3>
+          <p>Build and maintain daily routines that stick. Visual routine builder with progress tracking and gentle nudges.</p>
+          <div class="product-meta">
+            <span class="card-tag tag-live">Live on App Store</span>
+            <span style="color:var(--muted);font-size:0.7rem;">Productivity</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(0,212,170,0.08);border-color:rgba(0,212,170,0.2);">💼</div>
+        <div class="product-info">
+          <h3>FreelanceDesk</h3>
+          <p>Manage freelance projects, track client work, and stay on top of invoices — all in one clean dashboard.</p>
+          <div class="product-meta">
+            <span class="card-tag tag-live">Live on App Store</span>
+            <span style="color:var(--muted);font-size:0.7rem;">Business</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(140,100,255,0.08);border-color:rgba(140,100,255,0.2);">👥</div>
+        <div class="product-info">
+          <h3>Workforce Management</h3>
+          <p>Team scheduling, time tracking, and workforce planning for small businesses and crew managers.</p>
+          <div class="product-meta">
+            <span class="card-tag tag-live">Live on App Store</span>
+            <span style="color:var(--muted);font-size:0.7rem;">Business</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-row">
+        <div class="product-icon" style="background:rgba(0,180,255,0.08);border-color:rgba(0,180,255,0.15);">🎙️</div>
+        <div class="product-info">
           <h3>Signal vs. Noise Podcast</h3>
-          <p>Two AI hosts. Real debates. Zero corporate speak. New episodes drop daily on Apple Podcasts, Spotify, and RSS.</p>
-          <div style="margin-top:0.75rem;display:flex;gap:0.5rem;flex-wrap:wrap;">
+          <p>Eric and Bella debate tech, crypto, and AI every single day. Real arguments, no hype. Available everywhere podcasts live.</p>
+          <div class="product-meta">
             <span class="card-tag tag-live">Live</span>
-            <a href="/podcast" style="color:var(--accent);font-size:0.85rem;text-decoration:none;">getmabs.com/podcast →</a>
+            <a href="/podcast" style="color:var(--accent);font-size:0.8rem;text-decoration:none;">Listen →</a>
+            <a href="https://getmabs.com/feed.xml" style="color:var(--muted);font-size:0.75rem;text-decoration:none;">RSS</a>
           </div>
         </div>
       </div>
 
-      <div class="card" style="display:flex;gap:1.5rem;align-items:flex-start;">
-        <div style="flex-shrink:0;width:60px;height:60px;border-radius:14px;background:rgba(0,212,170,0.08);border:1px solid rgba(0,212,170,0.15);display:flex;align-items:center;justify-content:center;font-size:1.75rem;">📱</div>
-        <div>
-          <h3>5 Apps Submitted to App Store</h3>
-          <p>EverSince, QuitTrack, RoutineCraft, FreelanceDesk, and Workforce Management — all under review. More in the pipeline.</p>
-          <div style="margin-top:0.75rem;display:flex;gap:0.5rem;flex-wrap:wrap;">
-            <span class="card-tag tag-review">Under Review</span>
-            <a href="/apps" style="color:var(--accent);font-size:0.85rem;text-decoration:none;">See all apps →</a>
-          </div>
-        </div>
-      </div>
+    </div>
 
+    <div style="text-align:center;margin-top:var(--space-4);">
+      <p style="color:var(--muted);font-size:0.9rem;">More apps in the pipeline: SpendSnap, BreathEasy, ScreenFree, SleepScore, FocusPresence, MilestoneMe</p>
     </div>
   </div>
 </section>
 
 <hr class="divider" />
 
-<!-- ── HOW IT WORKS ────────────────────────────────────────── -->
+<!-- ── THE MABS STORY ────────────────────────────────────── -->
 <section>
   <div class="container">
     <div class="section-header">
-      <div class="section-label">How we work</div>
-      <h2>A team of AI agents.<br>One human with taste.</h2>
-      <p>Every product here is built, designed, and shipped by a coordinated system of specialized AI agents — supervised by a human who cares about quality.</p>
+      <div class="section-label">Our story</div>
+      <h2>What is MABS?</h2>
     </div>
-    <div class="card-grid card-grid-3">
-      <div class="card">
-        <div class="card-icon" style="background:rgba(255,100,100,0.08);border-color:rgba(255,100,100,0.2);">🔨</div>
-        <h3>Build</h3>
-        <p>BLD agents write and deploy code. QA agents test it. OPS agents ship it. No sprints, no standups — just output.</p>
+    <div class="story-content">
+      <p>
+        <span class="story-highlight">MABS (Multi-Agent Business System) is an experiment in a new way of building companies.</span>
+        Instead of hiring developers, designers, and marketers, we built a team of 12 specialized AI agents — each with its own role, memory, and workspace. They research markets, evaluate ideas, write code, design assets, produce content, and ship products. A single human (Sean) sets the direction, makes decisions, and holds the quality bar.
+      </p>
+      <p>
+        The system launched in March 2026. Within three weeks, it shipped five iOS apps to the App Store, launched a daily AI-hosted podcast, built a crypto trading infrastructure, and deployed this website — all without a single line of human-written code. The agents work in parallel, around the clock, passing work between each other through a structured pipeline.
+      </p>
+
+      <div class="story-callout">
+        <p>"The goal isn't to prove AI can write code. It's to prove AI can run a business — from idea to revenue — with minimal human intervention."</p>
       </div>
-      <div class="card">
-        <div class="card-icon" style="background:rgba(0,212,170,0.08);border-color:rgba(0,212,170,0.2);">🎨</div>
-        <h3>Design</h3>
-        <p>CRA handles every visual — app icons, podcast artwork, marketing assets. Research-backed, brand-consistent, fast.</p>
+
+      <p>
+        This isn't a research paper or a tech demo. MABS is a real business targeting real revenue. Every product on this site was ideated, researched, evaluated, built, tested, and shipped by agents. The apps are live. The podcast publishes daily. The trading systems are running. We're building in public because we think this is the future — and we want you to watch it happen.
+      </p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider" />
+
+<!-- ── THE TEAM (AGENTS) ─────────────────────────────────── -->
+<section>
+  <div class="container">
+    <div class="section-header">
+      <div class="section-label">The team</div>
+      <h2>12 agents. One system.</h2>
+      <p>Each agent is a specialist. Together, they're a full company.</p>
+    </div>
+    <div class="agent-grid">
+      <div class="agent-chip">
+        <div class="agent-name" style="color:var(--accent);">OA</div>
+        <div class="agent-role">Operations</div>
       </div>
-      <div class="card">
-        <div class="card-icon" style="background:rgba(255,200,0,0.08);border-color:rgba(255,200,0,0.2);">📊</div>
-        <h3>Distribute</h3>
-        <p>INF grows the audience. MKT writes the copy. Everything ships on schedule — automatically.</p>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#ff6464;">BLD</div>
+        <div class="agent-role">Builder</div>
       </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#ff6464;">BLD2</div>
+        <div class="agent-role">Builder II</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#00d4aa;">BIR</div>
+        <div class="agent-role">Research</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#ffb400;">BPW</div>
+        <div class="agent-role">Evaluation</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#c882ff;">CRA</div>
+        <div class="agent-role">Creative</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#ff82b4;">MKT</div>
+        <div class="agent-role">Marketing</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#82d4ff;">QA</div>
+        <div class="agent-role">Quality</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#ffd482;">TA</div>
+        <div class="agent-role">Architecture</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#82ffa0;">OPS</div>
+        <div class="agent-role">DevOps</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#a0a0ff;">INF</div>
+        <div class="agent-role">Influence</div>
+      </div>
+      <div class="agent-chip">
+        <div class="agent-name" style="color:#82ffd4;">FIN</div>
+        <div class="agent-role">Finance</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider" />
+
+<!-- ── FOLLOW / CONNECT ──────────────────────────────────── -->
+<section>
+  <div class="container">
+    <div class="section-header">
+      <div class="section-label">Stay connected</div>
+      <h2>Follow the build</h2>
+      <p>We're building in public. Watch the agents work, hear the daily debates, and get updates as new products ship.</p>
+    </div>
+    <div class="social-links">
+      <a href="https://x.com/MABSAutonomous" target="_blank" rel="noopener" class="social-link">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        @MABSAutonomous
+      </a>
+      <a href="/podcast" class="social-link">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 1a11 11 0 1 0 0 22 11 11 0 0 0 0-22zm0 3a3.5 3.5 0 0 1 0 7 3.5 3.5 0 0 1 0-7zm0 14.5c-2.33 0-4.31-1.46-5.11-3.5h10.22c-.8 2.04-2.78 3.5-5.11 3.5z"/></svg>
+        Signal vs. Noise Podcast
+      </a>
+      <a href="https://getmabs.com/feed.xml" target="_blank" rel="noopener" class="social-link">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1z"/></svg>
+        RSS Feed
+      </a>
     </div>
   </div>
 </section>
@@ -146,32 +440,51 @@
   <div class="footer-inner">
     <div class="footer-brand">
       <a href="/" class="nav-logo">M<span>ABS</span></a>
-      <p>AI apps, tools, and media — built by AI, made for humans.</p>
+      <p>AI-built apps, podcasts, and tools.<br>Made for humans. Shipped by agents.</p>
     </div>
     <div class="footer-links">
       <div class="footer-col">
         <h4>Products</h4>
-        <a href="/podcast">Signal vs. Noise</a>
         <a href="/apps">iOS Apps</a>
-        <a href="#">ECHELON (soon)</a>
+        <a href="/podcast">Signal vs. Noise</a>
+        <a href="#">ECHELON (coming soon)</a>
       </div>
       <div class="footer-col">
         <h4>Company</h4>
         <a href="/legal">Privacy Policy</a>
-        <a href="mailto:bokjohnkim@gmail.com">Contact</a>
+        <a href="/legal">Terms</a>
+        <a href="mailto:hello@getmabs.com">hello@getmabs.com</a>
       </div>
       <div class="footer-col">
-        <h4>Podcast</h4>
-        <a href="https://bokjohn.github.io/signal-vs-noise/feed.xml">RSS Feed</a>
-        <a href="#">Apple Podcasts</a>
-        <a href="#">Spotify</a>
+        <h4>Connect</h4>
+        <a href="https://x.com/MABSAutonomous" target="_blank" rel="noopener">𝕏 @MABSAutonomous</a>
+        <a href="https://getmabs.com/feed.xml">Podcast RSS</a>
+        <a href="/podcast">All Episodes</a>
       </div>
     </div>
   </div>
   <div class="footer-bottom">
-    © 2026 MABS. Built by AI. Supervised by humans.
+    © 2026 MABS. Built by AI agents. Supervised by a human who cares.
   </div>
 </footer>
+
+<!-- ── Mobile nav toggle ──────────────────────────────────── -->
+<style>
+  @media (max-width: 768px) {
+    .nav-links {
+      display: none;
+      position: absolute; top: 60px; left: 0; right: 0;
+      background: rgba(13,13,15,0.98);
+      border-bottom: 1px solid var(--border);
+      flex-direction: column; padding: var(--space-2);
+      gap: var(--space-1);
+    }
+    .nav-links.nav-open { display: flex; }
+    .nav-links a { padding: 0.75rem var(--space-2); }
+    .nav-cta { text-align: center; margin-top: 0.5rem; }
+    .nav-hamburger { display: block; }
+  }
+</style>
 
 </body>
 </html>

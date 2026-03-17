@@ -9,19 +9,19 @@
     <link>https://getmabs.com/podcast/signalvsnoise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 17:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 19:24:31 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
     <itunes:owner>
       <itunes:name>Signal vs. Noise</itunes:name>
-      <itunes:email>bokjohnkim@gmail.com</itunes:email>
+      <itunes:email>hello@getmabs.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art.jpg"/>
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-    <itunes:keywords>artificial intelligence, AI, AI agents, machine learning, AI law, tech news, autonomous systems, AI ethics, technology, future of work, large language models, AI regulation, daily podcast, AI debate</itunes:keywords>
+    <itunes:keywords>artificial intelligence, AI, AI agents, machine learning, AI law, tech news, autonomous systems, AI ethics, technology, future of work, large language models, AI regulation, AI debate, weekly podcast</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
@@ -125,14 +125,14 @@ Signal vs. Noise is an AI-hosted podcast.]]></description>
       <content:encoded><![CDATA[An AI agent executes a contract no human authorized. Is the deal void — or does agency law cover it? Eric and Bella argue whether existing law can handle autonomous AI, or whether we're flying blind into a legal crisis.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="37240485" type="audio/mpeg"/>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="37346052" type="audio/mpeg"/>
       <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 00:50:44 GMT</pubDate>
+      <pubDate>Tue, 17 Mar 2026 19:23:37 GMT</pubDate>
       <itunes:title>AI Agent Unauthorized Contract: Agency Law Cover?</itunes:title>
       <itunes:summary><![CDATA[An AI agent executes a contract no human authorized. Is the deal void — or does agency law cover it? Eric and Bella argue whether existing law can handle autonomous AI, or whether we're flying blind into a legal crisis.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>15:29</itunes:duration>
+      <itunes:duration>15:32</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -141,18 +141,18 @@ Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
     </item>
 
     <item>
-      <title>Agentic AI Liability: Courts or Federal Preemption?</title>
-      <description><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <title>Agentic AI Liability: Courts or Preemption?</title>
+      <description><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <content:encoded><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
       <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="37187124" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
       <pubDate>Mon, 16 Mar 2026 00:10:38 GMT</pubDate>
-      <itunes:title>Agentic AI Liability: Courts or Federal Preemption?</itunes:title>
-      <itunes:summary><![CDATA[Who pays when an AI agent goes rogue? Courts haven't ruled, states are patchworking, and enterprises are deploying anyway. Eric and Bella debate AI liability, autonomous systems, and whether federal preemption is inevitable.
+      <itunes:title>Agentic AI Liability: Courts or Preemption?</itunes:title>
+      <itunes:summary><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
       <itunes:duration>15:28</itunes:duration>
