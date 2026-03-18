@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast/signalvsnoise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 03:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 04:48:21 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -26,136 +26,21 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>Morgan Stanley AI Breakthrough 2026: Real or Hype?</title>
-      <description><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
+      <title>Colorado AI Act June 2026: Ready or GDPR Repeat?</title>
+      <description><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
+      <content:encoded><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep006.mp3" length="30522410" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep006.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 07:09:35 GMT</pubDate>
-      <itunes:title>Morgan Stanley AI Breakthrough 2026: Real or Hype?</itunes:title>
-      <itunes:summary><![CDATA[Morgan Stanley says a non-linear AI leap hits in Q2 2026 — and most of the world isn't ready. Is this genuine signal or investment-bank storytelling? Eric and Bella fight it out.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>12:42</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
-
-    <item>
-      <title>EU AI Act August 2026: Impact on US Regulation</title>
-      <description><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="42073787" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep005.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 13:07:18 GMT</pubDate>
-      <itunes:title>EU AI Act August 2026: Impact on US Regulation</itunes:title>
-      <itunes:summary><![CDATA[EU AI Act enforcement hits August 2026. Does it make the US agency law debate irrelevant overnight — or does America's messier path still matter? Eric and Bella argue it out.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>17:30</itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
-
-    <item>
-      <title>Senate GOP Deepfake Ad: Free Speech or Illegal?</title>
-      <description><![CDATA[Senate Republicans ran a deepfake of a Democratic candidate. Was it protected speech or AI-powered election interference? Eric and Bella fight over where the line is — and why disclosure might not be enough.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Senate Republicans ran a deepfake of a Democratic candidate. Was it protected speech or AI-powered election interference? Eric and Bella fight over where the line is — and why disclosure might not be enough.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="33635187" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep004.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 07:10:14 GMT</pubDate>
-      <itunes:title>Senate GOP Deepfake Ad: Free Speech or Illegal?</itunes:title>
-      <itunes:summary><![CDATA[Senate Republicans ran a deepfake of a Democratic candidate. Was it protected speech or AI-powered election interference? Eric and Bella fight over where the line is — and why disclosure might not be enough.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>13:59</itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
-
-    <item>
-      <title>AI Agents Contract Liability: Void If No Legal Authority?</title>
-      <description><![CDATA[AI agents are executing contracts — but they can't be legal agents under agency law. Does that void the deal? Eric and Bella fight over who actually owns the wreckage.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[AI agents are executing contracts — but they can't be legal agents under agency law. Does that void the deal? Eric and Bella fight over who actually owns the wreckage.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="37630630" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep003.mp3</guid>
-      <pubDate>Mon, 16 Mar 2026 07:20:29 GMT</pubDate>
-      <itunes:title>AI Agents Contract Liability: Void If No Legal Authority?</itunes:title>
-      <itunes:summary><![CDATA[AI agents are executing contracts — but they can't be legal agents under agency law. Does that void the deal? Eric and Bella fight over who actually owns the wreckage.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>15:39</itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
-
-    <item>
-      <title>AI Agent Unauthorized Contract: Agency Law Cover?</title>
-      <description><![CDATA[An AI agent executes a contract no human authorized. Is the deal void — or does agency law cover it? Eric and Bella argue whether existing law can handle autonomous AI, or whether we're flying blind into a legal crisis.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[An AI agent executes a contract no human authorized. Is the deal void — or does agency law cover it? Eric and Bella argue whether existing law can handle autonomous AI, or whether we're flying blind into a legal crisis.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="37346052" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Tue, 17 Mar 2026 19:23:37 GMT</pubDate>
-      <itunes:title>AI Agent Unauthorized Contract: Agency Law Cover?</itunes:title>
-      <itunes:summary><![CDATA[An AI agent executes a contract no human authorized. Is the deal void — or does agency law cover it? Eric and Bella argue whether existing law can handle autonomous AI, or whether we're flying blind into a legal crisis.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>15:32</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
-
-    <item>
-      <title>Agentic AI Liability: Courts or Preemption?</title>
-      <description><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="32609924" type="audio/mpeg"/>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="42029656" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
-      <pubDate>Wed, 18 Mar 2026 03:01:21 GMT</pubDate>
-      <itunes:title>Agentic AI Liability: Courts or Preemption?</itunes:title>
-      <itunes:summary><![CDATA[Who pays when an AI agent makes a costly mistake — and no law clearly says? Eric and Bella debate whether courts or federal preemption should settle agentic AI liability first.
+      <pubDate>Wed, 18 Mar 2026 04:47:29 GMT</pubDate>
+      <itunes:title>Colorado AI Act June 2026: Ready or GDPR Repeat?</itunes:title>
+      <itunes:summary><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>13:34</itunes:duration>
+      <itunes:duration>17:29</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
