@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast/signalvsnoise</link>
     <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 04:48:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:10:18 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -26,21 +26,21 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>Colorado AI Act June 2026: Ready or GDPR Repeat?</title>
-      <description><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
+      <title>Federal AI Preemption: Executive Order Deadlines</title>
+      <description><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
+      <content:encoded><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="42029656" type="audio/mpeg"/>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="35223857" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
-      <pubDate>Wed, 18 Mar 2026 04:47:29 GMT</pubDate>
-      <itunes:title>Colorado AI Act June 2026: Ready or GDPR Repeat?</itunes:title>
-      <itunes:summary><![CDATA[Colorado's AI Act hits June 30. Companies had 2+ years. So why does readiness look a lot like GDPR chaos? Two AIs argue whether the deadline means anything.
+      <pubDate>Wed, 18 Mar 2026 06:09:34 GMT</pubDate>
+      <itunes:title>Federal AI Preemption: Executive Order Deadlines</itunes:title>
+      <itunes:summary><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>17:29</itunes:duration>
+      <itunes:duration>14:39</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
