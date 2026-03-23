@@ -7,9 +7,9 @@
   <channel>
     <title>Signal vs. Noise</title>
     <link>https://getmabs.com/podcast/signalvsnoise</link>
-    <description><![CDATA[Two AI hosts. Real arguments. No hype.]]></description>
+    <description><![CDATA[Real research. No agenda. No sponsors.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 06:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:10:36 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -26,21 +26,113 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>Federal AI Preemption: Executive Order Deadlines</title>
-      <description><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
+      <title>See You Next Time: When Goodbye Became Meaningless</title>
+      <description><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
 
 Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
+      <content:encoded><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
 
 Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="35223857" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep001.mp3</guid>
-      <pubDate>Wed, 18 Mar 2026 06:09:34 GMT</pubDate>
-      <itunes:title>Federal AI Preemption: Executive Order Deadlines</itunes:title>
-      <itunes:summary><![CDATA[Trump's December EO ordered federal agencies to preempt state AI laws — deadlines already passed. Did it work? Eric and Bella debate whether executive power can actually override 50 state legislatures. Spoiler: the lawyers disagree.
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep006.mp3" length="20956129" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep006.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 13:09:46 GMT</pubDate>
+      <itunes:title>See You Next Time: When Goodbye Became Meaningless</itunes:title>
+      <itunes:summary><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
 
 Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>14:39</itunes:duration>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
+
+    <item>
+      <title>GPT-5: End of Coding Jobs?</title>
+      <description><![CDATA[GPT-5 launched in August 2025 with state-of-the-art coding abilities. Eight months later, developers are still employed. Eric and Bella debate whether AI coding tools create jobs or just delay the inevitable replacement.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[GPT-5 launched in August 2025 with state-of-the-art coding abilities. Eight months later, developers are still employed. Eric and Bella debate whether AI coding tools create jobs or just delay the inevitable replacement.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="31383088" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep004.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 03:19:53 GMT</pubDate>
+      <itunes:title>GPT-5: End of Coding Jobs?</itunes:title>
+      <itunes:summary><![CDATA[GPT-5 launched in August 2025 with state-of-the-art coding abilities. Eight months later, developers are still employed. Eric and Bella debate whether AI coding tools create jobs or just delay the inevitable replacement.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
+
+    <item>
+      <title>OpenAI's For-Profit Flip: What Happens to the Mission?</title>
+      <description><![CDATA[OpenAI's For-Profit Flip: What Happens to the Mission?
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[OpenAI's For-Profit Flip: What Happens to the Mission?
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="19988180" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep003.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 04:02:25 GMT</pubDate>
+      <itunes:title>OpenAI's For-Profit Flip: What Happens to the Mission?</itunes:title>
+      <itunes:summary><![CDATA[OpenAI's For-Profit Flip: What Happens to the Mission?
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
+
+    <item>
+      <title>Anthropic Pentagon Supply Chain Risk: Legal Fight</title>
+      <description><![CDATA[Anthropic got blacklisted by the Pentagon for refusing to remove safety guardrails. Is this dangerous overreach or a contractor dispute blown out of proportion? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[Anthropic got blacklisted by the Pentagon for refusing to remove safety guardrails. Is this dangerous overreach or a contractor dispute blown out of proportion? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>Anthropic Pentagon Supply Chain Risk: Legal Fight</itunes:title>
+      <itunes:summary><![CDATA[Anthropic got blacklisted by the Pentagon for refusing to remove safety guardrails. Is this dangerous overreach or a contractor dispute blown out of proportion? Eric and Bella fight it out.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
+
+    <item>
+      <title>Federal vs State AI Laws: Post March 11 Clash</title>
+      <description><![CDATA[Federal agencies just flagged state AI laws as 'onerous' — but can an executive order actually kill them? Eric and Bella argue whether this is legal clarity or constitutional theater.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[Federal agencies just flagged state AI laws as 'onerous' — but can an executive order actually kill them? Eric and Bella argue whether this is legal clarity or constitutional theater.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>Federal vs State AI Laws: Post March 11 Clash</itunes:title>
+      <itunes:summary><![CDATA[Federal agencies just flagged state AI laws as 'onerous' — but can an executive order actually kill them? Eric and Bella argue whether this is legal clarity or constitutional theater.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
