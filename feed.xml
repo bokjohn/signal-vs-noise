@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 06:18:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:30:07 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -121,6 +121,29 @@ Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       
+      
+    </item>
+
+    <item>
+      <title>Melatonin: The Supplement 70 Million Americans Are Taking Wrong — Evidence Score 6/10</title>
+      <description><![CDATA[Melatonin is the most popular sleep supplement in America — and most people are taking the wrong dose, at the wrong time, for the wrong reason. Maya breaks down what the actual science says about timing, dosing, and a November 2025 study that raised serious questions about long-term use nobody is talking about. No hype, no supplement deals — just the evidence.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[Melatonin is the most popular sleep supplement in America — and most people are taking the wrong dose, at the wrong time, for the wrong reason. Maya breaks down what the actual science says about timing, dosing, and a November 2025 study that raised serious questions about long-term use nobody is talking about. No hype, no supplement deals — just the evidence.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>Melatonin: The Supplement 70 Million Americans Are Taking Wrong — Evidence Score 6/10</itunes:title>
+      <itunes:summary><![CDATA[Melatonin is the most popular sleep supplement in America — and most people are taking the wrong dose, at the wrong time, for the wrong reason. Maya breaks down what the actual science says about timing, dosing, and a November 2025 study that raised serious questions about long-term use nobody is talking about. No hype, no supplement deals — just the evidence.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>melatonin, sleep supplements, insomnia, circadian rhythm, melatonin dosage, heart failure risk, sleep science, melatonin timing, natural sleep aids, supplement safety</itunes:keywords>
       
     </item>
 
