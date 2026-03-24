@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 17:29:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 18:22:31 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -229,6 +229,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       
+      
+    </item>
+
+    <item>
+      <title>Melatonin: 70 Million Americans Take It Wrong — The 3 Mistakes Costing You Sleep</title>
+      <description><![CDATA[Seventy million Americans take melatonin. Most are taking 10 to 17 times the clinical dose, at the wrong time, for the wrong reason — and a 2025 study presented at the American Heart Association is raising serious long-term questions nobody in the wellness space wants to talk about. Zara breaks down the three dosing mistakes, the heart failure data, and what the evidence actually says you should do instead.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  18:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • AHA 2025 observational cohort study (Nnadi et al., n=130,828 adults with chronic insomnia) — long-te
+  • AHA 2025 sensitivity analysis — two or more melatonin fills 90+ days apart, heart failure hazard rat
+  • Boston Children's Hospital narrative review, World Journal of Pediatrics, April 30, 2025 — melatonin
+  • American Academy of Sleep Medicine 2025 health advisory — against melatonin for children under 13 wi
+  • JAMA studies (2025-2026) — 88% of melatonin gummies mislabeled, up to 478% excess content; adult use
+
+Next episode: Is cognitive behavioral therapy for insomnia actually better than any supplement? The data might shock you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Seventy million Americans take melatonin. Most are taking 10 to 17 times the clinical dose, at the wrong time, for the wrong reason — and a 2025 study presented at the American Heart Association is raising serious long-term questions nobody in the wellness space wants to talk about. Zara breaks down the three dosing mistakes, the heart failure data, and what the evidence actually says you should do instead.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  18:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • AHA 2025 observational cohort study (Nnadi et al., n=130,828 adults with chronic insomnia) — long-te
+  • AHA 2025 sensitivity analysis — two or more melatonin fills 90+ days apart, heart failure hazard rat
+  • Boston Children's Hospital narrative review, World Journal of Pediatrics, April 30, 2025 — melatonin
+  • American Academy of Sleep Medicine 2025 health advisory — against melatonin for children under 13 wi
+  • JAMA studies (2025-2026) — 88% of melatonin gummies mislabeled, up to 478% excess content; adult use
+
+Next episode: Is cognitive behavioral therapy for insomnia actually better than any supplement? The data might shock you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>Melatonin: 70 Million Americans Take It Wrong — The 3 Mistakes Costing You Sleep</itunes:title>
+      <itunes:summary><![CDATA[Seventy million Americans take melatonin. Most are taking 10 to 17 times the clinical dose, at the wrong time, for the wrong reason — and a 2025 study presented at the American Heart Association is raising serious long-term questions nobody in the wellness space wants to talk about. Zara breaks down the three dosing mistakes, the heart failure data, and what the evidence actually says you should do instead.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  18:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • AHA 2025 observational cohort study (Nnadi et al., n=130,828 adults with chronic insomnia) — long-te
+  • AHA 2025 sensitivity analysis — two or more melatonin fills 90+ days apart, heart failure hazard rat
+  • Boston Children's Hospital narrative review, World Journal of Pediatrics, April 30, 2025 — melatonin
+  • American Academy of Sleep Medicine 2025 health advisory — against melatonin for children under 13 wi
+  • JAMA studies (2025-2026) — 88% of melatonin gummies mislabeled, up to 478% excess content; adult use
+
+Next episode: Is cognitive behavioral therapy for insomnia actually better than any supplement? The data might shock you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>melatonin, sleep, sleep supplements, insomnia, melatonin dose, melatonin safety, heart failure, sleep science, circadian rhythm, pediatric melatonin, melatonin overdose, sleep health, evidence-based health</itunes:keywords>
       
     </item>
 
