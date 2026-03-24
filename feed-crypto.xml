@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast/signalvsnoise</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 14:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 16:24:13 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -27,25 +27,79 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
-      <title>ETF Whiplash: Is the $1.43B March Reversal Smart Money or Panic Buying?</title>
-      <description><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+      <title>Smart Money or Smart Exit? The Bitcoin ETF Flow Reversal — On-Chain Verdict</title>
+      <description><![CDATA[Bitcoin ETF flows just flipped from the worst outflow streak of 2026 to a $1.47B two-week inflow surge — then reversed again in days. This week, Marcus and James dig into the on-chain data to answer the real question: is institutional money loading Bitcoin, or is this a head-fake before the next leg down? The $56B cumulative ETF base, the 57% supply-in-profit signal, and the Fed's latest hawkish pivot all point to a market at a genuine inflection point.
 
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  13:00 — Segment 3
+  16:00 — On Chain Watch
 
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+Sources cited in this episode:
+  • CoinShares / ETF flow aggregators — $787M weekly BTC ETF inflows week ending March 5, 2026, ending 5
+  • CoinShares / ETF flow aggregators — $250M+ net inflows on March 10, 2026
+  • CoinShares / ETF flow aggregators — $199.37M net inflows on March 17, 2026, extending $1.47B two-wee
+  • CoinShares / ETF flow aggregators — $129.62M net outflows on March 18, 2026, ending 7-day inflow str
+  • CoinShares / ETF flow aggregators — $219.5M outflows following March 18 reversal
+
+Next episode: Next time: Ethereum is quietly bleeding ETF market share to Bitcoin — is the ETH/BTC ratio telling us something the price isn't? We've got the flow data and it's not pretty for ETH holders.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Bitcoin ETF flows just flipped from the worst outflow streak of 2026 to a $1.47B two-week inflow surge — then reversed again in days. This week, Marcus and James dig into the on-chain data to answer the real question: is institutional money loading Bitcoin, or is this a head-fake before the next leg down? The $56B cumulative ETF base, the 57% supply-in-profit signal, and the Fed's latest hawkish pivot all point to a market at a genuine inflection point.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  13:00 — Segment 3
+  16:00 — On Chain Watch
+
+Sources cited in this episode:
+  • CoinShares / ETF flow aggregators — $787M weekly BTC ETF inflows week ending March 5, 2026, ending 5
+  • CoinShares / ETF flow aggregators — $250M+ net inflows on March 10, 2026
+  • CoinShares / ETF flow aggregators — $199.37M net inflows on March 17, 2026, extending $1.47B two-wee
+  • CoinShares / ETF flow aggregators — $129.62M net outflows on March 18, 2026, ending 7-day inflow str
+  • CoinShares / ETF flow aggregators — $219.5M outflows following March 18 reversal
+
+Next episode: Next time: Ethereum is quietly bleeding ETF market share to Bitcoin — is the ETH/BTC ratio telling us something the price isn't? We've got the flow data and it's not pretty for ETH holders.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
       <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
       <guid isPermaLink="false">ep001.mp3</guid>
       <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
-      <itunes:title>ETF Whiplash: Is the $1.43B March Reversal Smart Money or Panic Buying?</itunes:title>
-      <itunes:summary><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+      <itunes:title>Smart Money or Smart Exit? The Bitcoin ETF Flow Reversal — On-Chain Verdict</itunes:title>
+      <itunes:summary><![CDATA[Bitcoin ETF flows just flipped from the worst outflow streak of 2026 to a $1.47B two-week inflow surge — then reversed again in days. This week, Marcus and James dig into the on-chain data to answer the real question: is institutional money loading Bitcoin, or is this a head-fake before the next leg down? The $56B cumulative ETF base, the 57% supply-in-profit signal, and the Fed's latest hawkish pivot all point to a market at a genuine inflection point.
 
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  13:00 — Segment 3
+  16:00 — On Chain Watch
+
+Sources cited in this episode:
+  • CoinShares / ETF flow aggregators — $787M weekly BTC ETF inflows week ending March 5, 2026, ending 5
+  • CoinShares / ETF flow aggregators — $250M+ net inflows on March 10, 2026
+  • CoinShares / ETF flow aggregators — $199.37M net inflows on March 17, 2026, extending $1.47B two-wee
+  • CoinShares / ETF flow aggregators — $129.62M net outflows on March 18, 2026, ending 7-day inflow str
+  • CoinShares / ETF flow aggregators — $219.5M outflows following March 18 reversal
+
+Next episode: Next time: Ethereum is quietly bleeding ETF market share to Bitcoin — is the ETH/BTC ratio telling us something the price isn't? We've got the flow data and it's not pretty for ETH holders.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
       <itunes:duration>12:23</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>bitcoin etf, etf outflows, etf inflows, smart money, on-chain analysis, FBTC, IBIT, BlackRock, Fidelity, institutional bitcoin, bitcoin price, crypto analysis, bitcoin 2026, etf flows, bitcoin on-chain</itunes:keywords>
+      <itunes:keywords>Bitcoin ETF, BTC ETF flows, smart money, on-chain analysis, institutional Bitcoin, ETF inflows 2026, Bitcoin price, short-term holder cost basis, exchange supply, Federal Reserve Bitcoin, crypto market 2026, Bitcoin accumulation, BTC signal noise</itunes:keywords>
       
     </item>
   </channel>
