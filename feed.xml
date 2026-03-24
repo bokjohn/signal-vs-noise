@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 17:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 17:29:23 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -306,6 +306,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>401k, tariffs, Federal Reserve, Jerome Powell, trade policy, inflation, stock market 2026, tariff pass-through, PCE, recession risk, S&amp;P 500, Yale Budget Lab, J.P. Morgan, rate cuts, consumer prices</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Bitcoin ETFs: $1.4B Reversal This Week — Is Smart Money Loading or Dumping?</title>
+      <description><![CDATA[This week, U.S. spot Bitcoin ETFs recorded $1.4 billion in net inflows over five consecutive days — ending a five-week outflow streak. But here's the catch: Bitcoin barely moved. Marcus sees coordinated institutional accumulation by BlackRock's IBIT near cycle lows. James sees a mechanical illusion driven by AP shorting delays, choppy weekly redemptions, and macro forces that dwarf the ETF story entirely. Someone's right. Someone's wrong. Let's find out.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Research brief [1] — $1.4B net inflows over five consecutive days ending ~March 13, 2026; $180M on M
+  • Research brief [2] — $225.2M combined net inflow on Tuesday March 10, 2026; BlackRock IBIT contribut
+  • Research brief [3] — $1.4B monthly ETF inflows; Bitcoin reclaiming $70K as first green month of 2026
+  • Research brief [4] — BlackRock IBIT accounting for roughly half of $1.1B over three days; IBIT near-
+  • Research brief [5] — ETFs hit longest 2026 inflow streak at roughly $2B over past month; diversified
+
+Next episode: MARA just unlocked the ability to sell 53,000 Bitcoin. Does that supply overhang actually matter — or is corporate treasury strategy more complicated than that?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week, U.S. spot Bitcoin ETFs recorded $1.4 billion in net inflows over five consecutive days — ending a five-week outflow streak. But here's the catch: Bitcoin barely moved. Marcus sees coordinated institutional accumulation by BlackRock's IBIT near cycle lows. James sees a mechanical illusion driven by AP shorting delays, choppy weekly redemptions, and macro forces that dwarf the ETF story entirely. Someone's right. Someone's wrong. Let's find out.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Research brief [1] — $1.4B net inflows over five consecutive days ending ~March 13, 2026; $180M on M
+  • Research brief [2] — $225.2M combined net inflow on Tuesday March 10, 2026; BlackRock IBIT contribut
+  • Research brief [3] — $1.4B monthly ETF inflows; Bitcoin reclaiming $70K as first green month of 2026
+  • Research brief [4] — BlackRock IBIT accounting for roughly half of $1.1B over three days; IBIT near-
+  • Research brief [5] — ETFs hit longest 2026 inflow streak at roughly $2B over past month; diversified
+
+Next episode: MARA just unlocked the ability to sell 53,000 Bitcoin. Does that supply overhang actually matter — or is corporate treasury strategy more complicated than that?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>Bitcoin ETFs: $1.4B Reversal This Week — Is Smart Money Loading or Dumping?</itunes:title>
+      <itunes:summary><![CDATA[This week, U.S. spot Bitcoin ETFs recorded $1.4 billion in net inflows over five consecutive days — ending a five-week outflow streak. But here's the catch: Bitcoin barely moved. Marcus sees coordinated institutional accumulation by BlackRock's IBIT near cycle lows. James sees a mechanical illusion driven by AP shorting delays, choppy weekly redemptions, and macro forces that dwarf the ETF story entirely. Someone's right. Someone's wrong. Let's find out.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Research brief [1] — $1.4B net inflows over five consecutive days ending ~March 13, 2026; $180M on M
+  • Research brief [2] — $225.2M combined net inflow on Tuesday March 10, 2026; BlackRock IBIT contribut
+  • Research brief [3] — $1.4B monthly ETF inflows; Bitcoin reclaiming $70K as first green month of 2026
+  • Research brief [4] — BlackRock IBIT accounting for roughly half of $1.1B over three days; IBIT near-
+  • Research brief [5] — ETFs hit longest 2026 inflow streak at roughly $2B over past month; diversified
+
+Next episode: MARA just unlocked the ability to sell 53,000 Bitcoin. Does that supply overhang actually matter — or is corporate treasury strategy more complicated than that?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Bitcoin ETF, IBIT, BlackRock, spot Bitcoin ETF inflows, institutional accumulation, ETF redemptions, MicroStrategy, MARA, on-chain data, crypto 2026, BTC price, authorized participants, ETF creation mechanism, signal vs noise crypto</itunes:keywords>
       
     </item>
   </channel>
