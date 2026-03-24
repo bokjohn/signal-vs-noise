@@ -7,9 +7,15 @@
   <channel>
     <title>Signal vs. Noise</title>
     <link>https://getmabs.com/podcast/signalvsnoise</link>
-    <description><![CDATA[Real research. No agenda. No sponsors.]]></description>
+    <description><![CDATA[Signal vs. Noise is an AI-hosted podcast network covering tech, finance, crypto, and health — with zero sponsors, zero positions, and zero agenda. Our AI hosts debate the biggest stories using data, evidence, and genuine disagreement. No hype. No shilling. Just the signal. 
+
+Shows: Tech & AI (Sun) — Eric vs. Bella on AI, automation, and tech policy. Finance (Mon + Fri) — Marcus vs. James on markets, investing, and your money. Crypto (Tue + Thu) — Alex vs. Zara on on-chain data and token analysis. Health (Wed + Sat) — Maya reviews the evidence behind wellness claims. 
+
+Subscribe to the network feed for all shows, or follow individual channels. 
+
+Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 06:18:19 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/signalvsnoise/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -21,32 +27,10 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-    <itunes:keywords>artificial intelligence, AI, AI agents, machine learning, AI law, tech news, autonomous systems, AI ethics, technology, future of work, large language models, AI regulation, AI debate, weekly podcast</itunes:keywords>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
-    <item>
-      <title>See You Next Time: When Goodbye Became Meaningless</title>
-      <description><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
-
-Signal vs. Noise is an AI-hosted podcast.]]></description>
-      <content:encoded><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
-
-Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep006.mp3" length="20956129" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep006.mp3</guid>
-      <pubDate>Mon, 23 Mar 2026 13:09:46 GMT</pubDate>
-      <itunes:title>See You Next Time: When Goodbye Became Meaningless</itunes:title>
-      <itunes:summary><![CDATA[Eric and Bella debate whether 'see you next time' is an empty platitude or genuine optimism. From Twitch streamers to workplace farewells, they clash on what our casual sign-offs reveal about connection fatigue in 2026.
-
-Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
-      <itunes:duration>8:43</itunes:duration>
-      <itunes:episode>6</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      
-      
-    </item>
 
     <item>
       <title>GPT-5: End of Coding Jobs?</title>
@@ -137,6 +121,52 @@ Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       
+      
+    </item>
+
+    <item>
+      <title>Fed Silence on Tariffs: What Powell Isn't Saying Could Reshape Your 401k</title>
+      <description><![CDATA[This week, the Fed held rates steady and Powell addressed tariffs directly at his March press conference — but what he chose to emphasize, and what he didn't, is the real story. Marcus and James break down what the 10.5% effective tariff rate (highest since 1943) means for your portfolio, whether inflation is truly transitory, and what you should actually do with your 401k right now.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[This week, the Fed held rates steady and Powell addressed tariffs directly at his March press conference — but what he chose to emphasize, and what he didn't, is the real story. Marcus and James break down what the 10.5% effective tariff rate (highest since 1943) means for your portfolio, whether inflation is truly transitory, and what you should actually do with your 401k right now.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>Fed Silence on Tariffs: What Powell Isn't Saying Could Reshape Your 401k</itunes:title>
+      <itunes:summary><![CDATA[This week, the Fed held rates steady and Powell addressed tariffs directly at his March press conference — but what he chose to emphasize, and what he didn't, is the real story. Marcus and James break down what the 10.5% effective tariff rate (highest since 1943) means for your portfolio, whether inflation is truly transitory, and what you should actually do with your 401k right now.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Federal Reserve, tariffs, 401k, Jerome Powell, FOMC, inflation, Section 122 tariffs, portfolio strategy, interest rates, trade policy, GDP growth, Budget Lab Yale, tariff inflation, rate hold, 2026 market outlook</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>ETF Whiplash: Is the $1.43B March Reversal Smart Money or Panic Buying?</title>
+      <description><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+
+Signal vs. Noise is an AI-hosted podcast.]]></description>
+      <content:encoded><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+
+Signal vs. Noise is an AI-hosted podcast.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep001.mp3" length="30024161" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep001.mp3</guid>
+      <pubDate>Sat, 21 Mar 2026 01:36:52 GMT</pubDate>
+      <itunes:title>ETF Whiplash: Is the $1.43B March Reversal Smart Money or Panic Buying?</itunes:title>
+      <itunes:summary><![CDATA[This week, Bitcoin ETFs are sending mixed signals — $1.43 billion in March inflows after February's record $3.8 billion bleed, then a $129 million single-day outflow on March 18 that snapped a seven-day streak. Alex and Zara dig into the on-chain data to answer the real question: is institutional smart money accumulating, or is this a panic bounce from a historic drawdown? Plus, why 57% of Bitcoin supply in profit might be the most important number nobody's talking about.
+
+Signal vs. Noise is an AI-hosted podcast.]]></itunes:summary>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>bitcoin etf, etf outflows, etf inflows, smart money, on-chain analysis, FBTC, IBIT, BlackRock, Fidelity, institutional bitcoin, bitcoin price, crypto analysis, bitcoin 2026, etf flows, bitcoin on-chain</itunes:keywords>
       
     </item>
   </channel>
