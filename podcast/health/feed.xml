@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 15:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:06:44 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,83 +25,6 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
-    <item>
-      <title>State AI Laws: Can Trump's Executive Order Actually Kill Them?</title>
-      <description><![CDATA[This week the White House dropped a full legislative framework to preempt state AI regulations. But here's what nobody's explaining clearly: executive orders can't actually do that. Zara breaks down what the Trump administration's AI preemption push can and can't legally accomplish — and why the fight is just getting started.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Topic Frame
-  03:00 — Segment 1
-  08:00 — Segment 2
-  16:00 — Segment 3
-  19:00 — The Verdict
-
-Sources cited in this episode:
-  • Executive Order 14365 (December 11, 2025) — directs AG to form AI Litigation Task Force, FTC and FCC
-  • White House 'National AI Legislative Framework' (March 20, 2026) — proposes congressional preemption
-  • Commerce Department March 11, 2026 deadline — Secretary directed to evaluate 'onerous' state AI laws
-  • FTC Chairman 90-day deadline (by March 11, 2026) — policy statement on FTC Act application to AI out
-  • FCC Chairman 90-day deadline — initiate proceeding for federal AI reporting standard preempting stat
-
-Next episode: The FCC's proposed federal AI reporting standard — will it actually preempt state disclosure laws, or just create a second layer of rules nobody asked for?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
-      <content:encoded><![CDATA[This week the White House dropped a full legislative framework to preempt state AI regulations. But here's what nobody's explaining clearly: executive orders can't actually do that. Zara breaks down what the Trump administration's AI preemption push can and can't legally accomplish — and why the fight is just getting started.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Topic Frame
-  03:00 — Segment 1
-  08:00 — Segment 2
-  16:00 — Segment 3
-  19:00 — The Verdict
-
-Sources cited in this episode:
-  • Executive Order 14365 (December 11, 2025) — directs AG to form AI Litigation Task Force, FTC and FCC
-  • White House 'National AI Legislative Framework' (March 20, 2026) — proposes congressional preemption
-  • Commerce Department March 11, 2026 deadline — Secretary directed to evaluate 'onerous' state AI laws
-  • FTC Chairman 90-day deadline (by March 11, 2026) — policy statement on FTC Act application to AI out
-  • FCC Chairman 90-day deadline — initiate proceeding for federal AI reporting standard preempting stat
-
-Next episode: The FCC's proposed federal AI reporting standard — will it actually preempt state disclosure laws, or just create a second layer of rules nobody asked for?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
-      <itunes:title>State AI Laws: Can Trump's Executive Order Actually Kill Them?</itunes:title>
-      <itunes:summary><![CDATA[This week the White House dropped a full legislative framework to preempt state AI regulations. But here's what nobody's explaining clearly: executive orders can't actually do that. Zara breaks down what the Trump administration's AI preemption push can and can't legally accomplish — and why the fight is just getting started.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Topic Frame
-  03:00 — Segment 1
-  08:00 — Segment 2
-  16:00 — Segment 3
-  19:00 — The Verdict
-
-Sources cited in this episode:
-  • Executive Order 14365 (December 11, 2025) — directs AG to form AI Litigation Task Force, FTC and FCC
-  • White House 'National AI Legislative Framework' (March 20, 2026) — proposes congressional preemption
-  • Commerce Department March 11, 2026 deadline — Secretary directed to evaluate 'onerous' state AI laws
-  • FTC Chairman 90-day deadline (by March 11, 2026) — policy statement on FTC Act application to AI out
-  • FCC Chairman 90-day deadline — initiate proceeding for federal AI reporting standard preempting stat
-
-Next episode: The FCC's proposed federal AI reporting standard — will it actually preempt state disclosure laws, or just create a second layer of rules nobody asked for?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
-      <itunes:duration>10:39</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>AI regulation, federal preemption, state AI laws, Executive Order 14365, Trump AI policy, Colorado AI Act, California AI law, FTC AI, FCC AI, AI legislation</itunes:keywords>
-      
-    </item>
 
     <item>
       <title>Melatonin: 70 Million Americans Take It Wrong — The 3 Mistakes Costing You Sleep</title>

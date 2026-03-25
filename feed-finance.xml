@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 15:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:06:44 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,83 +25,6 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
-    <item>
-      <title>Your AI Tools at Risk: The Pentagon vs. Anthropic Ruling That Changes Everything</title>
-      <description><![CDATA[A federal judge this week called the Pentagon's blacklisting of Anthropic 'troubling' and an attempt to 'cripple' the company. Marcus and James debate whether this is a dangerous precedent for every AI vendor in the defense supply chain — or proof that the market self-corrects when one vendor plays hardball. Plus: what the OpenAI deal hours later tells you about where the real money flows.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Pulse
-  03:00 — Segment 1
-  08:00 — Segment 2
-  15:00 — Segment 3
-  19:00 — What To Watch
-
-Sources cited in this episode:
-  • Defense Secretary Hegseth formal notification — March 3, 2026 supply chain risk designation against 
-  • President Trump Truth Social post — February 27, 2026 executive order halting all federal Anthropic 
-  • Anthropic lawsuit filing — March 10, 2026, Section 3252 free speech and due process claims, potentia
-  • Federal Judge Rita Lin hearing — March 24, 2026, San Francisco, 'cripple' and 'punish' characterizat
-  • Pentagon contract termination — up to $200 million contract value, requirement for affiliated compan
-
-Next episode: If Anthropic wins in court, does every AI safety policy become a First Amendment issue?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
-      <content:encoded><![CDATA[A federal judge this week called the Pentagon's blacklisting of Anthropic 'troubling' and an attempt to 'cripple' the company. Marcus and James debate whether this is a dangerous precedent for every AI vendor in the defense supply chain — or proof that the market self-corrects when one vendor plays hardball. Plus: what the OpenAI deal hours later tells you about where the real money flows.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Pulse
-  03:00 — Segment 1
-  08:00 — Segment 2
-  15:00 — Segment 3
-  19:00 — What To Watch
-
-Sources cited in this episode:
-  • Defense Secretary Hegseth formal notification — March 3, 2026 supply chain risk designation against 
-  • President Trump Truth Social post — February 27, 2026 executive order halting all federal Anthropic 
-  • Anthropic lawsuit filing — March 10, 2026, Section 3252 free speech and due process claims, potentia
-  • Federal Judge Rita Lin hearing — March 24, 2026, San Francisco, 'cripple' and 'punish' characterizat
-  • Pentagon contract termination — up to $200 million contract value, requirement for affiliated compan
-
-Next episode: If Anthropic wins in court, does every AI safety policy become a First Amendment issue?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
-      <itunes:title>Your AI Tools at Risk: The Pentagon vs. Anthropic Ruling That Changes Everything</itunes:title>
-      <itunes:summary><![CDATA[A federal judge this week called the Pentagon's blacklisting of Anthropic 'troubling' and an attempt to 'cripple' the company. Marcus and James debate whether this is a dangerous precedent for every AI vendor in the defense supply chain — or proof that the market self-corrects when one vendor plays hardball. Plus: what the OpenAI deal hours later tells you about where the real money flows.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Pulse
-  03:00 — Segment 1
-  08:00 — Segment 2
-  15:00 — Segment 3
-  19:00 — What To Watch
-
-Sources cited in this episode:
-  • Defense Secretary Hegseth formal notification — March 3, 2026 supply chain risk designation against 
-  • President Trump Truth Social post — February 27, 2026 executive order halting all federal Anthropic 
-  • Anthropic lawsuit filing — March 10, 2026, Section 3252 free speech and due process claims, potentia
-  • Federal Judge Rita Lin hearing — March 24, 2026, San Francisco, 'cripple' and 'punish' characterizat
-  • Pentagon contract termination — up to $200 million contract value, requirement for affiliated compan
-
-Next episode: If Anthropic wins in court, does every AI safety policy become a First Amendment issue?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
-      <itunes:duration>10:39</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>Anthropic, Pentagon, AI safety, defense contracts, Claude, supply chain risk, Pete Hegseth, Dario Amodei, OpenAI, military AI, AI regulation, national security, AI investing</itunes:keywords>
-      
-    </item>
 
     <item>
       <title>Your 401k This Week: Why the Fed's Tariff Silence Is Actually Bullish</title>
