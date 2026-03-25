@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 16:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:18:44 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Deepfakes: $3 Billion Lost in 9 Months — Are We Overreacting?</title>
+      <description><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>Deepfakes: $3 Billion Lost in 9 Months — Are We Overreacting?</itunes:title>
+      <itunes:summary><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>deepfakes, AI disinformation, synthetic media, deepfake fraud, AI scams, digital trust, EU AI Act, deepfake detection, misinformation, AI safety</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Melatonin: 70 Million Americans Take It Wrong — The 3 Mistakes Costing You Sleep</title>

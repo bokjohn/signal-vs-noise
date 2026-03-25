@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 16:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 16:18:44 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -179,6 +179,237 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       
+      
+    </item>
+
+    <item>
+      <title>Deepfakes: $3 Billion Lost in 9 Months — Are We Overreacting?</title>
+      <description><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>Deepfakes: $3 Billion Lost in 9 Months — Are We Overreacting?</itunes:title>
+      <itunes:summary><![CDATA[Between January and September 2025, AI deepfakes caused over $3 billion in US losses. But a 2024 meta-analysis of 56 papers found no overwhelming proof of unique harm. Zara breaks down what the evidence actually shows about deepfake threats, detection advances, and what you should actually be worried about — and what's just panic.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Signal AI 2026 Impact Report — deepfake fraud spiked 3,000%, enabling instant market volatility and 
+  • Experian 2026 Future of Fraud Forecast (January 13, 2026) — consumers lost $12.5 billion to fraud in
+  • OECD AI Incidents and Hazard Monitor — AI-related content incidents reached nearly 500 monthly repor
+  • Q1 2025 financial data — deepfake-enabled fraud exceeded $200 million in North America
+  • US deepfake fraud losses January–September 2025 — over $3 billion in losses
+
+Next episode: Next time: AI guardrails in conflict zones — what happens when the models deployed by militaries have no safety constraints at all?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>deepfakes, AI disinformation, synthetic media, deepfake fraud, AI scams, digital trust, EU AI Act, deepfake detection, misinformation, AI safety</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Your State's AI Laws: Can Trump Actually Kill Them?</title>
+      <description><![CDATA[This week the White House dropped its National AI Legislative Framework, recommending Congress preempt state AI laws coast to coast. Marcus and James debate whether federal preemption is a competitive necessity or an executive power grab with no teeth — and what it means for the AI stocks in your portfolio.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Executive Order 14365, December 11, 2025 — directed FTC, FCC, Commerce, and AG to challenge conflict
+  • White House National AI Legislative Framework, March 20, 2026 — recommended preemption of 'unduly bu
+  • EO 14365 — FTC Chairman directed to issue preemption policy statement within 90 days (by March 11, 2
+  • EO 14365 — Attorney General directed to establish AI Litigation Task Force within 30 days (by Januar
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to submit state AI law evaluation report
+
+Next episode: The FCC's proposed federal AI reporting standard is still live — does it actually preempt California's disclosure laws, or just stack on top?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week the White House dropped its National AI Legislative Framework, recommending Congress preempt state AI laws coast to coast. Marcus and James debate whether federal preemption is a competitive necessity or an executive power grab with no teeth — and what it means for the AI stocks in your portfolio.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Executive Order 14365, December 11, 2025 — directed FTC, FCC, Commerce, and AG to challenge conflict
+  • White House National AI Legislative Framework, March 20, 2026 — recommended preemption of 'unduly bu
+  • EO 14365 — FTC Chairman directed to issue preemption policy statement within 90 days (by March 11, 2
+  • EO 14365 — Attorney General directed to establish AI Litigation Task Force within 30 days (by Januar
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to submit state AI law evaluation report
+
+Next episode: The FCC's proposed federal AI reporting standard is still live — does it actually preempt California's disclosure laws, or just stack on top?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>Your State's AI Laws: Can Trump Actually Kill Them?</itunes:title>
+      <itunes:summary><![CDATA[This week the White House dropped its National AI Legislative Framework, recommending Congress preempt state AI laws coast to coast. Marcus and James debate whether federal preemption is a competitive necessity or an executive power grab with no teeth — and what it means for the AI stocks in your portfolio.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Executive Order 14365, December 11, 2025 — directed FTC, FCC, Commerce, and AG to challenge conflict
+  • White House National AI Legislative Framework, March 20, 2026 — recommended preemption of 'unduly bu
+  • EO 14365 — FTC Chairman directed to issue preemption policy statement within 90 days (by March 11, 2
+  • EO 14365 — Attorney General directed to establish AI Litigation Task Force within 30 days (by Januar
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to submit state AI law evaluation report
+
+Next episode: The FCC's proposed federal AI reporting standard is still live — does it actually preempt California's disclosure laws, or just stack on top?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>federal AI preemption, state AI laws, Executive Order 14365, AI regulation 2026, Colorado AI Act, California AI law, FTC AI policy, AI investing, White House AI framework, AI stocks</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>AI Regulation: Can Trump Actually Kill 50 State Laws With One Order?</title>
+      <description><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
+  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
+  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
+  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
+
+Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
+  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
+  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
+  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
+
+Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>AI Regulation: Can Trump Actually Kill 50 State Laws With One Order?</itunes:title>
+      <itunes:summary><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
+  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
+  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
+  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
+  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
+
+Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>federal AI preemption, state AI regulation, Executive Order 14365, Trump AI policy, California SB 942, Colorado AI Act, AI regulation 2026, National AI Legislative Framework, FTC AI policy, AI litigation task force</itunes:keywords>
       
     </item>
 
