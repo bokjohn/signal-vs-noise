@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 16:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 17:10:05 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,83 +25,6 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-
-    <item>
-      <title>AI Regulation: Can Trump Actually Kill 50 State Laws With One Order?</title>
-      <description><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Check
-  02:00 — Segment 1
-  08:00 — Segment 2
-  17:00 — Segment 3
-  20:00 — On Chain Watch
-
-Sources cited in this episode:
-  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
-  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
-  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
-  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
-  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
-
-Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
-      <content:encoded><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Check
-  02:00 — Segment 1
-  08:00 — Segment 2
-  17:00 — Segment 3
-  20:00 — On Chain Watch
-
-Sources cited in this episode:
-  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
-  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
-  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
-  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
-  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
-
-Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
-      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
-      <guid isPermaLink="false">ep002.mp3</guid>
-      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
-      <itunes:title>AI Regulation: Can Trump Actually Kill 50 State Laws With One Order?</itunes:title>
-      <itunes:summary><![CDATA[This week, the White House dropped a National AI Legislative Framework proposing federal preemption of state AI laws — five days ago. Marcus and James debate whether Executive Order 14365 is a genuine legal weapon or just a policy wish list, and what it means for every AI company navigating 50 different rulebooks right now.
-
-Timestamps:
-  00:00 — Cold Open
-  01:00 — Market Check
-  02:00 — Segment 1
-  08:00 — Segment 2
-  17:00 — Segment 3
-  20:00 — On Chain Watch
-
-Sources cited in this episode:
-  • White House National AI Legislative Framework (March 20, 2026) — proposed preemption of state AI law
-  • Executive Order 14365 (December 11, 2025) — directed agencies to challenge conflicting state AI laws
-  • EO 14365 — Secretary of Commerce deadline of March 11, 2026 to evaluate existing state AI laws inclu
-  • EO 14365 — FTC Chairman directed to issue policy statement within 90 days on preemption of state law
-  • EO 14365 — FCC Chairman directed to initiate proceeding within 90-180 days to adopt federal AI repor
-
-Next episode: The FCC just started its proceeding to preempt state AI disclosure laws. Can a telecom regulator actually kill transparency rules?
-
-
-Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
-      <itunes:duration>10:39</itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:keywords>federal AI preemption, state AI regulation, Executive Order 14365, Trump AI policy, California SB 942, Colorado AI Act, AI regulation 2026, National AI Legislative Framework, FTC AI policy, AI litigation task force</itunes:keywords>
-      
-    </item>
 
     <item>
       <title>Bitcoin ETFs: $1.4B Reversal This Week — Is Smart Money Loading or Dumping?</title>
