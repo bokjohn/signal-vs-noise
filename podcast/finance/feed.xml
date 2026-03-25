@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 17:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 21:39:14 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Energy Bill Is Now an AI Problem — And the Fed Knows It</title>
+      <description><![CDATA[AI data centers are consuming power at a scale that's reshaping energy markets, oil demand forecasts, and potentially Fed rate decisions. Marcus thinks AI-driven energy trading is the great stabilizer. James thinks it's a grid crisis dressed up in venture capital language. The data this week says both might be right — and that's the problem.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley analysts — AI data center power demand surging roughly 126 GW annually through 2028, 
+  • Bloom Energy — expanded to 2 GW capacity in 2025 for AI data centers via solid oxide fuel cells; sec
+  • Fidelity Select Industrials (Clayton Pfannenstiel) — 2026 outlook describing AI-driven power renaiss
+  • S&P Global — AI surging demand 'testing grid limits' in 2026, prioritizing capacity unlocks
+  • PJM capacity market — 2025/26 capacity prices surged 9.3x to $270/MW-day due to AI demand; regulator
+
+Next episode: If AI is reshaping energy markets, what does that do to the companies actually building the grid? We didn't get to the utility trade — that's next.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[AI data centers are consuming power at a scale that's reshaping energy markets, oil demand forecasts, and potentially Fed rate decisions. Marcus thinks AI-driven energy trading is the great stabilizer. James thinks it's a grid crisis dressed up in venture capital language. The data this week says both might be right — and that's the problem.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley analysts — AI data center power demand surging roughly 126 GW annually through 2028, 
+  • Bloom Energy — expanded to 2 GW capacity in 2025 for AI data centers via solid oxide fuel cells; sec
+  • Fidelity Select Industrials (Clayton Pfannenstiel) — 2026 outlook describing AI-driven power renaiss
+  • S&P Global — AI surging demand 'testing grid limits' in 2026, prioritizing capacity unlocks
+  • PJM capacity market — 2025/26 capacity prices surged 9.3x to $270/MW-day due to AI demand; regulator
+
+Next episode: If AI is reshaping energy markets, what does that do to the companies actually building the grid? We didn't get to the utility trade — that's next.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep002.mp3" length="25623064" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep002.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 00:03:09 GMT</pubDate>
+      <itunes:title>Your Energy Bill Is Now an AI Problem — And the Fed Knows It</itunes:title>
+      <itunes:summary><![CDATA[AI data centers are consuming power at a scale that's reshaping energy markets, oil demand forecasts, and potentially Fed rate decisions. Marcus thinks AI-driven energy trading is the great stabilizer. James thinks it's a grid crisis dressed up in venture capital language. The data this week says both might be right — and that's the problem.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley analysts — AI data center power demand surging roughly 126 GW annually through 2028, 
+  • Bloom Energy — expanded to 2 GW capacity in 2025 for AI data centers via solid oxide fuel cells; sec
+  • Fidelity Select Industrials (Clayton Pfannenstiel) — 2026 outlook describing AI-driven power renaiss
+  • S&P Global — AI surging demand 'testing grid limits' in 2026, prioritizing capacity unlocks
+  • PJM capacity market — 2025/26 capacity prices surged 9.3x to $270/MW-day due to AI demand; regulator
+
+Next episode: If AI is reshaping energy markets, what does that do to the companies actually building the grid? We didn't get to the utility trade — that's next.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>AI energy trading, Fed oil risk, data center power demand, energy markets 2026, predictive models, natural gas, grid constraints, inflation risk, Bloom Energy, Vistra, power renaissance, Fed rate decisions</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your 401k This Week: Why the Fed's Tariff Silence Is Actually Bullish</title>
