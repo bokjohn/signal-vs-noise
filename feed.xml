@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 01:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 02:48:53 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -129,6 +129,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       
+      
+    </item>
+
+    <item>
+      <title>Hep B Birth Dose: Is the CDC's 2025 Policy Shift a Dangerous Gamble?</title>
+      <description><![CDATA[In December 2025, the CDC quietly ended a 34-year universal hepatitis B birth dose recommendation. The American Academy of Pediatrics is still telling doctors to ignore it. Zara reads the actual ACIP data, scores the methodology, and tells you what this policy shift means for your newborn — and what the people arguing loudest on both sides are getting wrong.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC ACIP vote December 4-5 2025 — 8-3 recommendation to shift hepatitis B birth dose to shared clini
+  • CDC formal adoption December 16 2025 — shift to individual-based decision-making for birth dose; def
+  • American Academy of Pediatrics 2026 — continues recommending universal hepatitis B birth dose for al
+  • American Academy of Family Physicians 2026 — opposes removal of universal birth dose citing screenin
+  • Children's Health Defense 2025-2026 — reported Hep B newborn vaccination rates dropped from 83.5% (2
+
+Next episode: Are childhood vaccine schedules actually optimized for immune response — or for compliance?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[In December 2025, the CDC quietly ended a 34-year universal hepatitis B birth dose recommendation. The American Academy of Pediatrics is still telling doctors to ignore it. Zara reads the actual ACIP data, scores the methodology, and tells you what this policy shift means for your newborn — and what the people arguing loudest on both sides are getting wrong.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC ACIP vote December 4-5 2025 — 8-3 recommendation to shift hepatitis B birth dose to shared clini
+  • CDC formal adoption December 16 2025 — shift to individual-based decision-making for birth dose; def
+  • American Academy of Pediatrics 2026 — continues recommending universal hepatitis B birth dose for al
+  • American Academy of Family Physicians 2026 — opposes removal of universal birth dose citing screenin
+  • Children's Health Defense 2025-2026 — reported Hep B newborn vaccination rates dropped from 83.5% (2
+
+Next episode: Are childhood vaccine schedules actually optimized for immune response — or for compliance?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="19988180" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep003.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 04:02:25 GMT</pubDate>
+      <itunes:title>Hep B Birth Dose: Is the CDC's 2025 Policy Shift a Dangerous Gamble?</itunes:title>
+      <itunes:summary><![CDATA[In December 2025, the CDC quietly ended a 34-year universal hepatitis B birth dose recommendation. The American Academy of Pediatrics is still telling doctors to ignore it. Zara reads the actual ACIP data, scores the methodology, and tells you what this policy shift means for your newborn — and what the people arguing loudest on both sides are getting wrong.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC ACIP vote December 4-5 2025 — 8-3 recommendation to shift hepatitis B birth dose to shared clini
+  • CDC formal adoption December 16 2025 — shift to individual-based decision-making for birth dose; def
+  • American Academy of Pediatrics 2026 — continues recommending universal hepatitis B birth dose for al
+  • American Academy of Family Physicians 2026 — opposes removal of universal birth dose citing screenin
+  • Children's Health Defense 2025-2026 — reported Hep B newborn vaccination rates dropped from 83.5% (2
+
+Next episode: Are childhood vaccine schedules actually optimized for immune response — or for compliance?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>hepatitis B, birth dose, CDC ACIP, vaccine policy, newborn vaccines, shared clinical decision making, hep B 2026, AAP vs CDC, perinatal hepatitis B, vaccine schedule</itunes:keywords>
       
     </item>
 
