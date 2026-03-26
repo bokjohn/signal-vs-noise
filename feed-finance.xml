@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 02:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:09:29 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Oil at $100: Are AI Trading Bots Breaking the Fed's Playbook?</title>
+      <description><![CDATA[Crude oil surged nearly 70% in roughly ten weeks — from the $60s in January to nearly $100 per barrel by mid-March 2026. AI trading algorithms repriced geopolitical signals in minutes, not days, triggering circuit breakers and stop-loss cascades at the CME. Marcus and James debate whether that's efficient markets working — or a new kind of volatility the Fed has no tools to fight.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  06:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Tickeron press release, March 13 2026 — AI Trading Agent on PWR achieved 147.68% annualized return, 
+  • Tickeron / Sergey Savastiouk PhD, March 13 2026 — 15-minute AI trading model on infrastructure stock
+  • Verified Investing, March 16 2026 — oil spike to ~$100/barrel from $60s in Jan 2026 'handcuffs the F
+  • Research brief, 2026 — CME Group circuit breakers activated multiple times within a single session d
+  • Research brief, 2026 — Vitol, Trafigura, Gunvor algorithms monitor AIS satellite data, OSINT feeds, 
+
+Next episode: If AI algorithms can reprice oil in minutes — what happens when they hit the Treasury market next?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Crude oil surged nearly 70% in roughly ten weeks — from the $60s in January to nearly $100 per barrel by mid-March 2026. AI trading algorithms repriced geopolitical signals in minutes, not days, triggering circuit breakers and stop-loss cascades at the CME. Marcus and James debate whether that's efficient markets working — or a new kind of volatility the Fed has no tools to fight.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  06:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Tickeron press release, March 13 2026 — AI Trading Agent on PWR achieved 147.68% annualized return, 
+  • Tickeron / Sergey Savastiouk PhD, March 13 2026 — 15-minute AI trading model on infrastructure stock
+  • Verified Investing, March 16 2026 — oil spike to ~$100/barrel from $60s in Jan 2026 'handcuffs the F
+  • Research brief, 2026 — CME Group circuit breakers activated multiple times within a single session d
+  • Research brief, 2026 — Vitol, Trafigura, Gunvor algorithms monitor AIS satellite data, OSINT feeds, 
+
+Next episode: If AI algorithms can reprice oil in minutes — what happens when they hit the Treasury market next?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="19988180" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep003.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 04:02:25 GMT</pubDate>
+      <itunes:title>Oil at $100: Are AI Trading Bots Breaking the Fed's Playbook?</itunes:title>
+      <itunes:summary><![CDATA[Crude oil surged nearly 70% in roughly ten weeks — from the $60s in January to nearly $100 per barrel by mid-March 2026. AI trading algorithms repriced geopolitical signals in minutes, not days, triggering circuit breakers and stop-loss cascades at the CME. Marcus and James debate whether that's efficient markets working — or a new kind of volatility the Fed has no tools to fight.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  06:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Tickeron press release, March 13 2026 — AI Trading Agent on PWR achieved 147.68% annualized return, 
+  • Tickeron / Sergey Savastiouk PhD, March 13 2026 — 15-minute AI trading model on infrastructure stock
+  • Verified Investing, March 16 2026 — oil spike to ~$100/barrel from $60s in Jan 2026 'handcuffs the F
+  • Research brief, 2026 — CME Group circuit breakers activated multiple times within a single session d
+  • Research brief, 2026 — Vitol, Trafigura, Gunvor algorithms monitor AIS satellite data, OSINT feeds, 
+
+Next episode: If AI algorithms can reprice oil in minutes — what happens when they hit the Treasury market next?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>oil price volatility, AI trading algorithms, Federal Reserve, crude oil 2026, algorithmic trading, CME circuit breakers, Tickeron, Strait of Hormuz, oil price Fed, quantitative trading, macro volatility, energy markets 2026</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your Energy Bill Is Now an AI Problem — And the Fed Knows It</title>
