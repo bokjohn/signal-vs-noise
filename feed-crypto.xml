@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 03:32:01 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Crypto's Next Cycle: Is AI Killing the Devs Who Fund It?</title>
+      <description><![CDATA[Junior developer hiring is down nearly 20% from its 2022 peak. Agentic AI is eating entry-level coding jobs. Marcus sees capital unlocks and a talent pivot flooding crypto with new money. James sees a hollowed-out builder pipeline that kills the next cycle before it starts. The data is real — the verdict is not.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Stanford Digital Economy Lab / ADP payroll data — 16% relative employment decline for workers aged 2
+  • Stanford Digital Economy Lab — software developer employment aged 22-25 declined nearly 20% from lat
+  • LeadDev 2025 survey — 54% of engineering leaders plan to hire fewer juniors due to AI-driven efficie
+  • Stack Overflow 2025 Developer Survey — 84% of developers now use AI tools, up 14 percentage points f
+  • 2024 SHRM survey — 70% of hiring managers say AI can do the jobs of interns; 57% trust AI's work mor
+
+Next episode: If IBM is tripling junior hires while Salesforce freezes them — which model actually wins in 12 months?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Junior developer hiring is down nearly 20% from its 2022 peak. Agentic AI is eating entry-level coding jobs. Marcus sees capital unlocks and a talent pivot flooding crypto with new money. James sees a hollowed-out builder pipeline that kills the next cycle before it starts. The data is real — the verdict is not.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Stanford Digital Economy Lab / ADP payroll data — 16% relative employment decline for workers aged 2
+  • Stanford Digital Economy Lab — software developer employment aged 22-25 declined nearly 20% from lat
+  • LeadDev 2025 survey — 54% of engineering leaders plan to hire fewer juniors due to AI-driven efficie
+  • Stack Overflow 2025 Developer Survey — 84% of developers now use AI tools, up 14 percentage points f
+  • 2024 SHRM survey — 70% of hiring managers say AI can do the jobs of interns; 57% trust AI's work mor
+
+Next episode: If IBM is tripling junior hires while Salesforce freezes them — which model actually wins in 12 months?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep003.mp3" length="19988180" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep003.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 04:02:25 GMT</pubDate>
+      <itunes:title>Crypto's Next Cycle: Is AI Killing the Devs Who Fund It?</itunes:title>
+      <itunes:summary><![CDATA[Junior developer hiring is down nearly 20% from its 2022 peak. Agentic AI is eating entry-level coding jobs. Marcus sees capital unlocks and a talent pivot flooding crypto with new money. James sees a hollowed-out builder pipeline that kills the next cycle before it starts. The data is real — the verdict is not.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Stanford Digital Economy Lab / ADP payroll data — 16% relative employment decline for workers aged 2
+  • Stanford Digital Economy Lab — software developer employment aged 22-25 declined nearly 20% from lat
+  • LeadDev 2025 survey — 54% of engineering leaders plan to hire fewer juniors due to AI-driven efficie
+  • Stack Overflow 2025 Developer Survey — 84% of developers now use AI tools, up 14 percentage points f
+  • 2024 SHRM survey — 70% of hiring managers say AI can do the jobs of interns; 57% trust AI's work mor
+
+Next episode: If IBM is tripling junior hires while Salesforce freezes them — which model actually wins in 12 months?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>agentic AI, junior developers, crypto funding, developer hiring, DeFi, talent pipeline, AI interns, tech layoffs, crypto cycle, on-chain capital flows</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>AI Infrastructure 2026: $5.6 Trillion Bet — Signal or Hype?</title>
