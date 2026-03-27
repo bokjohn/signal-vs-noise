@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 03:32:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:17:31 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Portfolio This Week: The AI-to-Utilities Rotation — Justified or Panic?</title>
+      <description><![CDATA[Tech stocks are bleeding while utilities are surging — and this week the data is forcing investors to pick a side. Marcus makes the case that $2.9 trillion in data center construction makes this rotation a massive overreaction. James fires back: when 75% of companies still can't show AI ROI, the rotation isn't panic — it's pricing reality. Who's right? Your 401k is in the middle.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley Research — AI adopters seeing cash-flow margin expansion outpacing global average by 
+  • BlackRock Investment Institute — $5-8 trillion in AI-related capex projected through 2030
+  • World Economic Forum Munich Industry Strategy Meeting, March 2026 — ~75% of companies still lack mea
+  • BCG cited in USAII 2026 — 75% of CEOs lead AI strategy; firms plan to double AI spending to ~1.7% of
+  • McKinsey cited in USAII 2026 — 88% of organizations have adopted AI
+
+Next episode: Amazon and Meta are planning to spend $700 billion on AI infrastructure this year. Who actually gets paid — and is any of it in your portfolio?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Tech stocks are bleeding while utilities are surging — and this week the data is forcing investors to pick a side. Marcus makes the case that $2.9 trillion in data center construction makes this rotation a massive overreaction. James fires back: when 75% of companies still can't show AI ROI, the rotation isn't panic — it's pricing reality. Who's right? Your 401k is in the middle.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley Research — AI adopters seeing cash-flow margin expansion outpacing global average by 
+  • BlackRock Investment Institute — $5-8 trillion in AI-related capex projected through 2030
+  • World Economic Forum Munich Industry Strategy Meeting, March 2026 — ~75% of companies still lack mea
+  • BCG cited in USAII 2026 — 75% of CEOs lead AI strategy; firms plan to double AI spending to ~1.7% of
+  • McKinsey cited in USAII 2026 — 88% of organizations have adopted AI
+
+Next episode: Amazon and Meta are planning to spend $700 billion on AI infrastructure this year. Who actually gets paid — and is any of it in your portfolio?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="31383088" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep004.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 03:19:53 GMT</pubDate>
+      <itunes:title>Your Portfolio This Week: The AI-to-Utilities Rotation — Justified or Panic?</itunes:title>
+      <itunes:summary><![CDATA[Tech stocks are bleeding while utilities are surging — and this week the data is forcing investors to pick a side. Marcus makes the case that $2.9 trillion in data center construction makes this rotation a massive overreaction. James fires back: when 75% of companies still can't show AI ROI, the rotation isn't panic — it's pricing reality. Who's right? Your 401k is in the middle.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Morgan Stanley Research — AI adopters seeing cash-flow margin expansion outpacing global average by 
+  • BlackRock Investment Institute — $5-8 trillion in AI-related capex projected through 2030
+  • World Economic Forum Munich Industry Strategy Meeting, March 2026 — ~75% of companies still lack mea
+  • BCG cited in USAII 2026 — 75% of CEOs lead AI strategy; firms plan to double AI spending to ~1.7% of
+  • McKinsey cited in USAII 2026 — 88% of organizations have adopted AI
+
+Next episode: Amazon and Meta are planning to spend $700 billion on AI infrastructure this year. Who actually gets paid — and is any of it in your portfolio?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>AI disruption, market rotation, utilities stocks, tech stocks, NextEra Energy, NVIDIA, Microsoft earnings, Caterpillar, data center investment, 401k, market leadership, S&amp;P 500, AI infrastructure, portfolio strategy, signal vs noise finance</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Oil at $100: Are AI Trading Bots Breaking the Fed's Playbook?</title>
