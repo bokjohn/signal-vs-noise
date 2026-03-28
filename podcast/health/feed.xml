@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 13:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 13:54:53 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Gender-Affirming Care for Minors: What the Science Actually Says</title>
+      <description><![CDATA[This week a federal judge vacated HHS Secretary RFK Jr.'s declaration that gender-affirming care for minors is unsafe. But what does the actual research show? Zara reads the studies — the European data HHS cited, the Utah report they ignored, and the real evidence on mental health outcomes. No politics. Just methodology.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • U.S. District Judge Mustafa T. Kasubhai ruling, March 19 2026 — vacated HHS declaration on gender-af
+  • HHS Declaration, December 18 2025 — claimed sex-rejecting procedures for minors are neither safe nor
+  • Coalition of 21 states and DC lawsuit, December 23 2025 — challenged HHS declaration on procedural a
+  • HHS May 2025 review — underlying scientific basis for the declaration; criticized by American Psychi
+  • Utah DRRC May 2025 report — found significant evidence that gender-affirming services effectively tr
+
+Next episode: Are the European countries that restricted gender-affirming care seeing better outcomes? The data is starting to come in.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week a federal judge vacated HHS Secretary RFK Jr.'s declaration that gender-affirming care for minors is unsafe. But what does the actual research show? Zara reads the studies — the European data HHS cited, the Utah report they ignored, and the real evidence on mental health outcomes. No politics. Just methodology.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • U.S. District Judge Mustafa T. Kasubhai ruling, March 19 2026 — vacated HHS declaration on gender-af
+  • HHS Declaration, December 18 2025 — claimed sex-rejecting procedures for minors are neither safe nor
+  • Coalition of 21 states and DC lawsuit, December 23 2025 — challenged HHS declaration on procedural a
+  • HHS May 2025 review — underlying scientific basis for the declaration; criticized by American Psychi
+  • Utah DRRC May 2025 report — found significant evidence that gender-affirming services effectively tr
+
+Next episode: Are the European countries that restricted gender-affirming care seeing better outcomes? The data is starting to come in.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="31383088" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep004.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 03:19:53 GMT</pubDate>
+      <itunes:title>Gender-Affirming Care for Minors: What the Science Actually Says</itunes:title>
+      <itunes:summary><![CDATA[This week a federal judge vacated HHS Secretary RFK Jr.'s declaration that gender-affirming care for minors is unsafe. But what does the actual research show? Zara reads the studies — the European data HHS cited, the Utah report they ignored, and the real evidence on mental health outcomes. No politics. Just methodology.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • U.S. District Judge Mustafa T. Kasubhai ruling, March 19 2026 — vacated HHS declaration on gender-af
+  • HHS Declaration, December 18 2025 — claimed sex-rejecting procedures for minors are neither safe nor
+  • Coalition of 21 states and DC lawsuit, December 23 2025 — challenged HHS declaration on procedural a
+  • HHS May 2025 review — underlying scientific basis for the declaration; criticized by American Psychi
+  • Utah DRRC May 2025 report — found significant evidence that gender-affirming services effectively tr
+
+Next episode: Are the European countries that restricted gender-affirming care seeing better outcomes? The data is starting to come in.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>gender-affirming care, transgender youth, puberty blockers, hormone therapy, HHS declaration, RFK Jr, Judge Kasubhai, gender dysphoria, youth mental health, evidence-based medicine, trans healthcare, pediatric care, Medicaid, Medicare, medical policy</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Hep B Birth Dose: Is the CDC's 2025 Policy Shift a Dangerous Gamble?</title>
