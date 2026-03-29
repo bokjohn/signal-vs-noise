@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Signal vs. Noise is a show about AI — what's real, what's hype, and what actually matters.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2026 13:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 13:53:15 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/tech/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,77 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Trump AI Preemption: Kill State Laws?</title>
+      <description><![CDATA[President Trump's March 2026 AI framework demands federal preemption of state laws like Colorado's. Will it unify U.S. AI policy and slash compliance costs—or trigger a constitutional battle that fragments American AI leadership? Eric and Bella debate whether the White House blueprint can actually override states already enforcing their own rules.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  07:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence — March 20, 2026 — called for broa
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act discussion draft — 291 pages, released March 2026
+  • Trump Executive Order 'Ensuring a National Policy Framework for Artificial Intelligence' — December 
+  • NetChoice Director Patrick Hedger statement — March 20, 2026 — praised Framework as 'light-touch' ap
+  • ARI President Brad Carson criticism — March 2026 — called Framework 'Mad Max for AI industry'
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[President Trump's March 2026 AI framework demands federal preemption of state laws like Colorado's. Will it unify U.S. AI policy and slash compliance costs—or trigger a constitutional battle that fragments American AI leadership? Eric and Bella debate whether the White House blueprint can actually override states already enforcing their own rules.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  07:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence — March 20, 2026 — called for broa
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act discussion draft — 291 pages, released March 2026
+  • Trump Executive Order 'Ensuring a National Policy Framework for Artificial Intelligence' — December 
+  • NetChoice Director Patrick Hedger statement — March 20, 2026 — praised Framework as 'light-touch' ap
+  • ARI President Brad Carson criticism — March 2026 — called Framework 'Mad Max for AI industry'
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="34443797" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep005.mp3</guid>
+      <pubDate>Sun, 29 Mar 2026 13:52:32 GMT</pubDate>
+      <itunes:title>Trump AI Preemption: Kill State Laws?</itunes:title>
+      <itunes:summary><![CDATA[President Trump's March 2026 AI framework demands federal preemption of state laws like Colorado's. Will it unify U.S. AI policy and slash compliance costs—or trigger a constitutional battle that fragments American AI leadership? Eric and Bella debate whether the White House blueprint can actually override states already enforcing their own rules.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  07:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence — March 20, 2026 — called for broa
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act discussion draft — 291 pages, released March 2026
+  • Trump Executive Order 'Ensuring a National Policy Framework for Artificial Intelligence' — December 
+  • NetChoice Director Patrick Hedger statement — March 20, 2026 — praised Framework as 'light-touch' ap
+  • ARI President Brad Carson criticism — March 2026 — called Framework 'Mad Max for AI industry'
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>GPT-5: End of Coding Jobs?</title>
