@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 13:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 15:01:42 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>16 Cryptos Just Got Called Commodities — What That Means for Your Wallet</title>
+      <description><![CDATA[This week the SEC and CFTC dropped a joint classification framework naming 16 major cryptocurrencies — including ETH, SOL, XRP, and ADA — as digital commodities, not securities. Marcus sees a historic regulatory green light. James sees a non-binding guidance document that could flip overnight. Bitcoin at $68,226, ETH at $2,106 — and the real question is whether this changes anything at all.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • SEC-CFTC Joint Interpretation March 17 2026 — Five-category classification framework for crypto asse
+  • SEC-CFTC Joint Interpretation March 17 2026 — 16 cryptocurrencies named as digital commodities: BTC,
+  • SEC-CFTC Joint Interpretation March 17 2026 — Staking income, mining rewards, airdrop proceeds from 
+  • SEC-CFTC Joint Interpretation March 17 2026 — Classification is not permanent; assets can move in an
+  • Baker Botts legal analysis — Framework represents notable shift from enforcement to affirmative guid
+
+Next episode: When that 400-page formal rulemaking drops — and it's coming soon — which of these 16 tokens gets reclassified first?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week the SEC and CFTC dropped a joint classification framework naming 16 major cryptocurrencies — including ETH, SOL, XRP, and ADA — as digital commodities, not securities. Marcus sees a historic regulatory green light. James sees a non-binding guidance document that could flip overnight. Bitcoin at $68,226, ETH at $2,106 — and the real question is whether this changes anything at all.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • SEC-CFTC Joint Interpretation March 17 2026 — Five-category classification framework for crypto asse
+  • SEC-CFTC Joint Interpretation March 17 2026 — 16 cryptocurrencies named as digital commodities: BTC,
+  • SEC-CFTC Joint Interpretation March 17 2026 — Staking income, mining rewards, airdrop proceeds from 
+  • SEC-CFTC Joint Interpretation March 17 2026 — Classification is not permanent; assets can move in an
+  • Baker Botts legal analysis — Framework represents notable shift from enforcement to affirmative guid
+
+Next episode: When that 400-page formal rulemaking drops — and it's coming soon — which of these 16 tokens gets reclassified first?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep004.mp3" length="31383088" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep004.mp3</guid>
+      <pubDate>Mon, 23 Mar 2026 03:19:53 GMT</pubDate>
+      <itunes:title>16 Cryptos Just Got Called Commodities — What That Means for Your Wallet</itunes:title>
+      <itunes:summary><![CDATA[This week the SEC and CFTC dropped a joint classification framework naming 16 major cryptocurrencies — including ETH, SOL, XRP, and ADA — as digital commodities, not securities. Marcus sees a historic regulatory green light. James sees a non-binding guidance document that could flip overnight. Bitcoin at $68,226, ETH at $2,106 — and the real question is whether this changes anything at all.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  04:00 — Segment 1
+  09:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • SEC-CFTC Joint Interpretation March 17 2026 — Five-category classification framework for crypto asse
+  • SEC-CFTC Joint Interpretation March 17 2026 — 16 cryptocurrencies named as digital commodities: BTC,
+  • SEC-CFTC Joint Interpretation March 17 2026 — Staking income, mining rewards, airdrop proceeds from 
+  • SEC-CFTC Joint Interpretation March 17 2026 — Classification is not permanent; assets can move in an
+  • Baker Botts legal analysis — Framework represents notable shift from enforcement to affirmative guid
+
+Next episode: When that 400-page formal rulemaking drops — and it's coming soon — which of these 16 tokens gets reclassified first?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>13:03</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>SEC CFTC crypto classification, digital commodities, crypto regulation 2026, GENIUS Act stablecoins, ETH commodity, SOL regulation, XRP commodity, crypto compliance, CFTC oversight, crypto ETF, on-chain data, crypto policy 2026, stablecoin regulation, CLARITY Act, Bitcoin price</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Crypto's Next Cycle: Is AI Killing the Devs Who Fund It?</title>

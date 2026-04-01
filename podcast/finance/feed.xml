@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 13:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 15:01:42 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Tariffs This Week: Supreme Court Ruled — So Why Are They Still There?</title>
+      <description><![CDATA[The Supreme Court struck down Trump's IEEPA tariffs 6-3 on February 20th — but this week, tariffs are still sitting at 10% and climbing. Marcus and James debate whether constitutional clarity is actually bullish for your portfolio, or whether the pivot to Section 122 just replaced one uncertainty with another. Plus: the $175 billion refund question nobody is talking about.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  05:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Learning Resources, Inc. v. Trump (Feb 20, 2026) — Supreme Court ruled 6-3 that IEEPA does not autho
+  • Chief Justice John Roberts majority opinion — rejected presidential power to 'unilaterally impose un
+  • Trump Executive Order Feb 20, 2026 — terminated IEEPA tariffs effective February 24, 2026
+  • Section 122 of the Trade Act of 1974 — Trump imposed 10% across-the-board tariffs effective February
+  • Wharton Budget Model — projects up to $175 billion in potential refunds from invalidated IEEPA tarif
+
+Next episode: Congress has 150 days to vote on extending Section 122. What happens to your portfolio if they don't?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The Supreme Court struck down Trump's IEEPA tariffs 6-3 on February 20th — but this week, tariffs are still sitting at 10% and climbing. Marcus and James debate whether constitutional clarity is actually bullish for your portfolio, or whether the pivot to Section 122 just replaced one uncertainty with another. Plus: the $175 billion refund question nobody is talking about.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  05:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Learning Resources, Inc. v. Trump (Feb 20, 2026) — Supreme Court ruled 6-3 that IEEPA does not autho
+  • Chief Justice John Roberts majority opinion — rejected presidential power to 'unilaterally impose un
+  • Trump Executive Order Feb 20, 2026 — terminated IEEPA tariffs effective February 24, 2026
+  • Section 122 of the Trade Act of 1974 — Trump imposed 10% across-the-board tariffs effective February
+  • Wharton Budget Model — projects up to $175 billion in potential refunds from invalidated IEEPA tarif
+
+Next episode: Congress has 150 days to vote on extending Section 122. What happens to your portfolio if they don't?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="34443797" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep005.mp3</guid>
+      <pubDate>Sun, 29 Mar 2026 13:52:32 GMT</pubDate>
+      <itunes:title>Your Tariffs This Week: Supreme Court Ruled — So Why Are They Still There?</itunes:title>
+      <itunes:summary><![CDATA[The Supreme Court struck down Trump's IEEPA tariffs 6-3 on February 20th — but this week, tariffs are still sitting at 10% and climbing. Marcus and James debate whether constitutional clarity is actually bullish for your portfolio, or whether the pivot to Section 122 just replaced one uncertainty with another. Plus: the $175 billion refund question nobody is talking about.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  05:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Learning Resources, Inc. v. Trump (Feb 20, 2026) — Supreme Court ruled 6-3 that IEEPA does not autho
+  • Chief Justice John Roberts majority opinion — rejected presidential power to 'unilaterally impose un
+  • Trump Executive Order Feb 20, 2026 — terminated IEEPA tariffs effective February 24, 2026
+  • Section 122 of the Trade Act of 1974 — Trump imposed 10% across-the-board tariffs effective February
+  • Wharton Budget Model — projects up to $175 billion in potential refunds from invalidated IEEPA tarif
+
+Next episode: Congress has 150 days to vote on extending Section 122. What happens to your portfolio if they don't?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>tariffs 2026, Supreme Court tariffs, IEEPA ruling, Section 122 tariffs, trade policy 2026, portfolio tariffs, Learning Resources v Trump, market volatility 2026, import tariffs investing, trade war portfolio</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your Portfolio This Week: The AI-to-Utilities Rotation — Justified or Panic?</title>

@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 13:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 15:01:42 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>GLP-1 Drugs: Beyond Weight Loss — What the 2026 Evidence Actually Shows</title>
+      <description><![CDATA[Ozempic and Wegovy started as diabetes drugs. Now they're being approved for heart failure, liver disease, sleep apnea, and possibly Alzheimer's. Zara cuts through the hype and the fear to score what the evidence actually supports — and where the serious risks live.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • FDA approval of oral Wegovy 25mg (Dec 22, 2025) — first oral GLP-1 for weight management and MACE ri
+  • FDA approval of Wegovy (semaglutide) for MASH in adults with moderate-to-advanced fibrosis
+  • FDA approval of Zepbound (tirzepatide) for obstructive sleep apnea in people with obesity
+  • Harvard study (February 2026, Nils Krüger, Brigham and Women's Hospital) — GLP-1s achieved 40% relat
+  • Washington University 2026 study of 333,000 U.S. veterans — stopping GLP-1s for 6 months spiked card
+
+Next episode: If GLP-1s can reshape your heart, your liver, your sleep — what are they doing to your brain? The mental health data is a genuine mess, and we're going to sort it out.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Ozempic and Wegovy started as diabetes drugs. Now they're being approved for heart failure, liver disease, sleep apnea, and possibly Alzheimer's. Zara cuts through the hype and the fear to score what the evidence actually supports — and where the serious risks live.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • FDA approval of oral Wegovy 25mg (Dec 22, 2025) — first oral GLP-1 for weight management and MACE ri
+  • FDA approval of Wegovy (semaglutide) for MASH in adults with moderate-to-advanced fibrosis
+  • FDA approval of Zepbound (tirzepatide) for obstructive sleep apnea in people with obesity
+  • Harvard study (February 2026, Nils Krüger, Brigham and Women's Hospital) — GLP-1s achieved 40% relat
+  • Washington University 2026 study of 333,000 U.S. veterans — stopping GLP-1s for 6 months spiked card
+
+Next episode: If GLP-1s can reshape your heart, your liver, your sleep — what are they doing to your brain? The mental health data is a genuine mess, and we're going to sort it out.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="34443797" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep005.mp3</guid>
+      <pubDate>Sun, 29 Mar 2026 13:52:32 GMT</pubDate>
+      <itunes:title>GLP-1 Drugs: Beyond Weight Loss — What the 2026 Evidence Actually Shows</itunes:title>
+      <itunes:summary><![CDATA[Ozempic and Wegovy started as diabetes drugs. Now they're being approved for heart failure, liver disease, sleep apnea, and possibly Alzheimer's. Zara cuts through the hype and the fear to score what the evidence actually supports — and where the serious risks live.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • FDA approval of oral Wegovy 25mg (Dec 22, 2025) — first oral GLP-1 for weight management and MACE ri
+  • FDA approval of Wegovy (semaglutide) for MASH in adults with moderate-to-advanced fibrosis
+  • FDA approval of Zepbound (tirzepatide) for obstructive sleep apnea in people with obesity
+  • Harvard study (February 2026, Nils Krüger, Brigham and Women's Hospital) — GLP-1s achieved 40% relat
+  • Washington University 2026 study of 333,000 U.S. veterans — stopping GLP-1s for 6 months spiked card
+
+Next episode: If GLP-1s can reshape your heart, your liver, your sleep — what are they doing to your brain? The mental health data is a genuine mess, and we're going to sort it out.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>GLP-1 drugs, semaglutide, tirzepatide, Wegovy, Ozempic, Zepbound, obesity treatment, heart failure, MASH, sleep apnea, Alzheimer's, weight loss drugs, FDA approval, drug safety, evidence-based medicine</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Gender-Affirming Care for Minors: What the Science Actually Says</title>
