@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2026 20:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 14:08:52 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -254,6 +254,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>tariffs 2026, Supreme Court tariffs, IEEPA ruling, Section 122 tariffs, trade policy 2026, portfolio tariffs, Learning Resources v Trump, market volatility 2026, import tariffs investing, trade war portfolio</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Jane Street's Bitcoin Dump: Market Making or Market Crime?</title>
+      <description><![CDATA[This week Bitcoin is sitting at $66,122 after a brutal 3% drop — and the question dominating crypto right now is whether Jane Street, one of the most powerful authorized participants in Bitcoin ETFs, has been systematically dumping BTC at 10 AM every day to suppress prices. Marcus sees on-chain wallet flows that look suspicious. James thinks it's the most dangerous kind of FUD: the kind that sounds smart. They genuinely disagree on the verdict.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Lookonchain on-chain data — Jane Street-linked wallets deposited 270 BTC (~$19M) to Bullish.com and 
+  • Lookonchain on-chain data — Jane Street-linked wallets received 205.36 BTC (~$15.08M) from BitMEX an
+  • Terraform Labs bankruptcy administrator lawsuit — filed February 23, 2026, Southern District of NY (
+  • Vetle Lunde (K33 Head of Research) — analyzed 606,513 minutes of BTC price data (Jan 2025–Feb 2026),
+  • Rob Hadick (Dragonfly Capital, ex-Goldman Sachs) — stated Jane Street manipulation theory 'makes zer
+
+Next episode: If Jane Street walks away clean — who actually controls Bitcoin's price at the open?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week Bitcoin is sitting at $66,122 after a brutal 3% drop — and the question dominating crypto right now is whether Jane Street, one of the most powerful authorized participants in Bitcoin ETFs, has been systematically dumping BTC at 10 AM every day to suppress prices. Marcus sees on-chain wallet flows that look suspicious. James thinks it's the most dangerous kind of FUD: the kind that sounds smart. They genuinely disagree on the verdict.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Lookonchain on-chain data — Jane Street-linked wallets deposited 270 BTC (~$19M) to Bullish.com and 
+  • Lookonchain on-chain data — Jane Street-linked wallets received 205.36 BTC (~$15.08M) from BitMEX an
+  • Terraform Labs bankruptcy administrator lawsuit — filed February 23, 2026, Southern District of NY (
+  • Vetle Lunde (K33 Head of Research) — analyzed 606,513 minutes of BTC price data (Jan 2025–Feb 2026),
+  • Rob Hadick (Dragonfly Capital, ex-Goldman Sachs) — stated Jane Street manipulation theory 'makes zer
+
+Next episode: If Jane Street walks away clean — who actually controls Bitcoin's price at the open?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep005.mp3" length="34443797" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep005.mp3</guid>
+      <pubDate>Sun, 29 Mar 2026 13:52:32 GMT</pubDate>
+      <itunes:title>Jane Street's Bitcoin Dump: Market Making or Market Crime?</itunes:title>
+      <itunes:summary><![CDATA[This week Bitcoin is sitting at $66,122 after a brutal 3% drop — and the question dominating crypto right now is whether Jane Street, one of the most powerful authorized participants in Bitcoin ETFs, has been systematically dumping BTC at 10 AM every day to suppress prices. Marcus sees on-chain wallet flows that look suspicious. James thinks it's the most dangerous kind of FUD: the kind that sounds smart. They genuinely disagree on the verdict.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Lookonchain on-chain data — Jane Street-linked wallets deposited 270 BTC (~$19M) to Bullish.com and 
+  • Lookonchain on-chain data — Jane Street-linked wallets received 205.36 BTC (~$15.08M) from BitMEX an
+  • Terraform Labs bankruptcy administrator lawsuit — filed February 23, 2026, Southern District of NY (
+  • Vetle Lunde (K33 Head of Research) — analyzed 606,513 minutes of BTC price data (Jan 2025–Feb 2026),
+  • Rob Hadick (Dragonfly Capital, ex-Goldman Sachs) — stated Jane Street manipulation theory 'makes zer
+
+Next episode: If Jane Street walks away clean — who actually controls Bitcoin's price at the open?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>14:20</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Jane Street, Bitcoin manipulation, ETF dumping, authorized participant, IBIT, BlackRock, 10 AM dump, Bitcoin price, on-chain data, crypto market making, Terraform lawsuit, SEBI ban, Bitcoin ETF, market manipulation, crypto 2026</itunes:keywords>
       
     </item>
 
