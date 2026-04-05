@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Signal vs. Noise is a show about AI — what's real, what's hype, and what actually matters.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Apr 2026 14:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 14:07:22 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/tech/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,77 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Open Source AI Sovereignty: Security or Dependency?</title>
+      <description><![CDATA[Can open-source AI deliver true sovereignty, or does it create dangerous dependencies? Eric and Bella debate whether global collaboration strengthens or undermines national control over artificial intelligence infrastructure, data, and security in 2026.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • Linux Foundation Research, LF AI & Data, and Futurewei Technologies — State of Sovereign AI report (
+  • Linux Foundation report — 94% view global collaboration as essential to sovereign AI, 72% prioritize
+  • Brookings Institution — Rethinking AI Sovereignty report (February 2026): full-stack AI sovereignty 
+  • McKinsey analysis (2026) — nearly three-quarters of enterprises include sovereign AI in 2026 roadmap
+  • White House America's AI Action Plan (July 2025) — open-source and open-weight AI models freely avai
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Can open-source AI deliver true sovereignty, or does it create dangerous dependencies? Eric and Bella debate whether global collaboration strengthens or undermines national control over artificial intelligence infrastructure, data, and security in 2026.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • Linux Foundation Research, LF AI & Data, and Futurewei Technologies — State of Sovereign AI report (
+  • Linux Foundation report — 94% view global collaboration as essential to sovereign AI, 72% prioritize
+  • Brookings Institution — Rethinking AI Sovereignty report (February 2026): full-stack AI sovereignty 
+  • McKinsey analysis (2026) — nearly three-quarters of enterprises include sovereign AI in 2026 roadmap
+  • White House America's AI Action Plan (July 2025) — open-source and open-weight AI models freely avai
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep006.mp3" length="31120672" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep006.mp3</guid>
+      <pubDate>Sun, 05 Apr 2026 14:06:43 GMT</pubDate>
+      <itunes:title>Open Source AI Sovereignty: Security or Dependency?</itunes:title>
+      <itunes:summary><![CDATA[Can open-source AI deliver true sovereignty, or does it create dangerous dependencies? Eric and Bella debate whether global collaboration strengthens or undermines national control over artificial intelligence infrastructure, data, and security in 2026.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  21:00 — Recap
+
+Sources cited in this episode:
+  • Linux Foundation Research, LF AI & Data, and Futurewei Technologies — State of Sovereign AI report (
+  • Linux Foundation report — 94% view global collaboration as essential to sovereign AI, 72% prioritize
+  • Brookings Institution — Rethinking AI Sovereignty report (February 2026): full-stack AI sovereignty 
+  • McKinsey analysis (2026) — nearly three-quarters of enterprises include sovereign AI in 2026 roadmap
+  • White House America's AI Action Plan (July 2025) — open-source and open-weight AI models freely avai
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>12:57</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>Trump AI Preemption: Kill State Laws?</title>
