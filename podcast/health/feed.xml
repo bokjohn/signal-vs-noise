@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Apr 2026 15:56:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:59:49 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Measles Is Back: 2,255 Cases — What the Data Says About Why</title>
+      <description><![CDATA[The U.S. recorded 2,255 confirmed measles cases in 2025 — nearly eight times more than 2024 — and outbreaks are still running in 2026. Zara cuts through the political noise to explain what the data actually shows: who is getting sick, where coverage is failing, and what the evidence says you should do right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC 2025 measles surveillance — 1,900+ confirmed cases, 49 outbreaks, 92% in unvaccinated or unknown
+  • Stanford Medicine / CDC data — 2,255 confirmed U.S. measles cases in 2025, nearly 8x more than 2024
+  • CDC kindergarten vaccination coverage data — MMR coverage dropped from 95.2% (2019-2020) to 92.7% (2
+  • CDC 2024-2025 kindergarten data — MMR coverage at 92.5%, risking 286,000 children
+  • South Carolina outbreak data — 92.1% kindergartner vaccination rate; 119 of 126 cases were unvaccina
+
+Next episode: Next time: the evidence on childhood fever management — what you're probably doing that doctors say makes it worse.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The U.S. recorded 2,255 confirmed measles cases in 2025 — nearly eight times more than 2024 — and outbreaks are still running in 2026. Zara cuts through the political noise to explain what the data actually shows: who is getting sick, where coverage is failing, and what the evidence says you should do right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC 2025 measles surveillance — 1,900+ confirmed cases, 49 outbreaks, 92% in unvaccinated or unknown
+  • Stanford Medicine / CDC data — 2,255 confirmed U.S. measles cases in 2025, nearly 8x more than 2024
+  • CDC kindergarten vaccination coverage data — MMR coverage dropped from 95.2% (2019-2020) to 92.7% (2
+  • CDC 2024-2025 kindergarten data — MMR coverage at 92.5%, risking 286,000 children
+  • South Carolina outbreak data — 92.1% kindergartner vaccination rate; 119 of 126 cases were unvaccina
+
+Next episode: Next time: the evidence on childhood fever management — what you're probably doing that doctors say makes it worse.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep006.mp3" length="44905289" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep006.mp3</guid>
+      <pubDate>Wed, 08 Apr 2026 13:59:11 GMT</pubDate>
+      <itunes:title>Measles Is Back: 2,255 Cases — What the Data Says About Why</itunes:title>
+      <itunes:summary><![CDATA[The U.S. recorded 2,255 confirmed measles cases in 2025 — nearly eight times more than 2024 — and outbreaks are still running in 2026. Zara cuts through the political noise to explain what the data actually shows: who is getting sick, where coverage is failing, and what the evidence says you should do right now.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC 2025 measles surveillance — 1,900+ confirmed cases, 49 outbreaks, 92% in unvaccinated or unknown
+  • Stanford Medicine / CDC data — 2,255 confirmed U.S. measles cases in 2025, nearly 8x more than 2024
+  • CDC kindergarten vaccination coverage data — MMR coverage dropped from 95.2% (2019-2020) to 92.7% (2
+  • CDC 2024-2025 kindergarten data — MMR coverage at 92.5%, risking 286,000 children
+  • South Carolina outbreak data — 92.1% kindergartner vaccination rate; 119 of 126 cases were unvaccina
+
+Next episode: Next time: the evidence on childhood fever management — what you're probably doing that doctors say makes it worse.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:41</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>measles outbreak, MMR vaccine, vaccination rates, herd immunity, vaccine hesitancy, CDC 2025, measles 2026, childhood vaccines, public health, immunization</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>GLP-1 Drugs: Beyond Weight Loss — What the 2026 Evidence Actually Shows</title>
