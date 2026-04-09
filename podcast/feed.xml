@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Apr 2026 13:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 14:02:57 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -31,6 +31,83 @@ Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, pe
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Fed This Week: Why a Rate HIKE Is Back on the Table</title>
+      <description><![CDATA[This week, prediction markets say 98% chance of no April Fed hike — but energy-driven inflation is quietly rewriting that calculus. Marcus and James debate whether the Fed's 'transitory' playbook holds up when Cleveland Fed's Beth Hammack is openly warning inflation could hit 3.5% in April and the FOMC meets in just three weeks.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Polymarket — 98.3% implied probability of no Fed rate change at April 28-29, 2026 FOMC meeting
+  • FRC prediction markets — 98.4% odds for no change, $13.7 million in volume on that outcome
+  • FOMC March 18, 2026 projections — median federal funds rate 3.1% for 2026, central tendency 2.9-3.6%
+  • March 2026 nonfarm payrolls — 178,000 job gain, unemployment at 4.3%
+  • Yahoo Finance, April 7, 2026 — energy price shocks curbing Fed easing bets, speculation of 2026 rate
+
+Next episode: March CPI drops next week — if it comes in above 3.1%, does the Fed's 'transitory' argument collapse entirely?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week, prediction markets say 98% chance of no April Fed hike — but energy-driven inflation is quietly rewriting that calculus. Marcus and James debate whether the Fed's 'transitory' playbook holds up when Cleveland Fed's Beth Hammack is openly warning inflation could hit 3.5% in April and the FOMC meets in just three weeks.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Polymarket — 98.3% implied probability of no Fed rate change at April 28-29, 2026 FOMC meeting
+  • FRC prediction markets — 98.4% odds for no change, $13.7 million in volume on that outcome
+  • FOMC March 18, 2026 projections — median federal funds rate 3.1% for 2026, central tendency 2.9-3.6%
+  • March 2026 nonfarm payrolls — 178,000 job gain, unemployment at 4.3%
+  • Yahoo Finance, April 7, 2026 — energy price shocks curbing Fed easing bets, speculation of 2026 rate
+
+Next episode: March CPI drops next week — if it comes in above 3.1%, does the Fed's 'transitory' argument collapse entirely?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/finance/ep008.mp3" length="50831629" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep008.mp3</guid>
+      <pubDate>Thu, 09 Apr 2026 14:02:14 GMT</pubDate>
+      <itunes:title>Your Fed This Week: Why a Rate HIKE Is Back on the Table</itunes:title>
+      <itunes:summary><![CDATA[This week, prediction markets say 98% chance of no April Fed hike — but energy-driven inflation is quietly rewriting that calculus. Marcus and James debate whether the Fed's 'transitory' playbook holds up when Cleveland Fed's Beth Hammack is openly warning inflation could hit 3.5% in April and the FOMC meets in just three weeks.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Polymarket — 98.3% implied probability of no Fed rate change at April 28-29, 2026 FOMC meeting
+  • FRC prediction markets — 98.4% odds for no change, $13.7 million in volume on that outcome
+  • FOMC March 18, 2026 projections — median federal funds rate 3.1% for 2026, central tendency 2.9-3.6%
+  • March 2026 nonfarm payrolls — 178,000 job gain, unemployment at 4.3%
+  • Yahoo Finance, April 7, 2026 — energy price shocks curbing Fed easing bets, speculation of 2026 rate
+
+Next episode: March CPI drops next week — if it comes in above 3.1%, does the Fed's 'transitory' argument collapse entirely?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>21:09</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Federal Reserve, rate hike 2026, energy inflation, FOMC April 2026, Beth Hammack, Jerome Powell, oil prices, CPI, interest rates, your money</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your Portfolio This Week: The Tariff Crash — Panic or Opportunity?</title>
