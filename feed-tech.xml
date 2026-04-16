@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Signal vs. Noise is a show about AI — what's real, what's hype, and what actually matters.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Apr 2026 14:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 14:06:50 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/tech/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>AI Preemption: Is the White House Framework Industry Capture?</title>
+      <description><![CDATA[The White House's 2026 AI Framework wants to override state laws like Colorado's. Is this smart national AI policy or a $100M lobbying win dressed up as innovation? Eric and Bella debate.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  04:00 — Segment 1
+  09:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House AI Framework (March 20, 2026) — proposes preempting state AI laws deemed to impose 'undu
+  • White House AI Framework — explicitly rejects creating a new federal AI regulatory body
+  • White House AI Framework — states retain authority over child safety, fraud prevention, consumer pro
+  • President Trump Executive Order (December 11, 2025) — directs agency reviews, Commerce Department ca
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act — discussion draft proposing national standards with p
+
+Next episode: Can Congress actually pass preemption legislation — or is this framework already dead on arrival?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The White House's 2026 AI Framework wants to override state laws like Colorado's. Is this smart national AI policy or a $100M lobbying win dressed up as innovation? Eric and Bella debate.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  04:00 — Segment 1
+  09:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House AI Framework (March 20, 2026) — proposes preempting state AI laws deemed to impose 'undu
+  • White House AI Framework — explicitly rejects creating a new federal AI regulatory body
+  • White House AI Framework — states retain authority over child safety, fraud prevention, consumer pro
+  • President Trump Executive Order (December 11, 2025) — directs agency reviews, Commerce Department ca
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act — discussion draft proposing national standards with p
+
+Next episode: Can Congress actually pass preemption legislation — or is this framework already dead on arrival?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep008.mp3" length="43705345" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep008.mp3</guid>
+      <pubDate>Wed, 15 Apr 2026 14:06:02 GMT</pubDate>
+      <itunes:title>AI Preemption: Is the White House Framework Industry Capture?</itunes:title>
+      <itunes:summary><![CDATA[The White House's 2026 AI Framework wants to override state laws like Colorado's. Is this smart national AI policy or a $100M lobbying win dressed up as innovation? Eric and Bella debate.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  04:00 — Segment 1
+  09:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House AI Framework (March 20, 2026) — proposes preempting state AI laws deemed to impose 'undu
+  • White House AI Framework — explicitly rejects creating a new federal AI regulatory body
+  • White House AI Framework — states retain authority over child safety, fraud prevention, consumer pro
+  • President Trump Executive Order (December 11, 2025) — directs agency reviews, Commerce Department ca
+  • Senator Marsha Blackburn TRUMP AMERICA AI Act — discussion draft proposing national standards with p
+
+Next episode: Can Congress actually pass preemption legislation — or is this framework already dead on arrival?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:11</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>Open Source AI Sovereignty: Security or Dependency?</title>
