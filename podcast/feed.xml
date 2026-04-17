@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 14:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:02:13 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -31,6 +31,83 @@ Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, pe
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Rate Cuts This Week: The Ceasefire Changed Everything — Or Did It?</title>
+      <description><![CDATA[A U.S.-Iran ceasefire this week sent Fed rate cut odds surging from 14% to over 30% overnight. Marcus thinks the worst is over and cuts are back on track. James thinks one ceasefire doesn't unwind a 50% oil shock. They have the data. You decide.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve FOMC March 18 2026 — held rates at 3.50%-3.75%, maintained 2026 cut projection, 11-1
+  • IEA end-March 2026 report — Strait of Hormuz closure removed roughly 11 million bpd from global supp
+  • ANZ Bank April 9 2026 — estimated 9 million bpd effectively removed due to Iran war
+  • CME FedWatch Tool post-ceasefire — cut odds by end-2026 jumped from 14% to over 30% after April 14 c
+  • Citi analysts April 2026 — projected 75 basis points of cuts in September, October, December 2026 if
+
+Next episode: Citi says three cuts by December. The dot plot says one. Which desk is reading this right?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[A U.S.-Iran ceasefire this week sent Fed rate cut odds surging from 14% to over 30% overnight. Marcus thinks the worst is over and cuts are back on track. James thinks one ceasefire doesn't unwind a 50% oil shock. They have the data. You decide.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve FOMC March 18 2026 — held rates at 3.50%-3.75%, maintained 2026 cut projection, 11-1
+  • IEA end-March 2026 report — Strait of Hormuz closure removed roughly 11 million bpd from global supp
+  • ANZ Bank April 9 2026 — estimated 9 million bpd effectively removed due to Iran war
+  • CME FedWatch Tool post-ceasefire — cut odds by end-2026 jumped from 14% to over 30% after April 14 c
+  • Citi analysts April 2026 — projected 75 basis points of cuts in September, October, December 2026 if
+
+Next episode: Citi says three cuts by December. The dot plot says one. Which desk is reading this right?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/finance/ep010.mp3" length="48277299" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep010.mp3</guid>
+      <pubDate>Fri, 17 Apr 2026 14:01:25 GMT</pubDate>
+      <itunes:title>Your Rate Cuts This Week: The Ceasefire Changed Everything — Or Did It?</itunes:title>
+      <itunes:summary><![CDATA[A U.S.-Iran ceasefire this week sent Fed rate cut odds surging from 14% to over 30% overnight. Marcus thinks the worst is over and cuts are back on track. James thinks one ceasefire doesn't unwind a 50% oil shock. They have the data. You decide.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Pulse
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve FOMC March 18 2026 — held rates at 3.50%-3.75%, maintained 2026 cut projection, 11-1
+  • IEA end-March 2026 report — Strait of Hormuz closure removed roughly 11 million bpd from global supp
+  • ANZ Bank April 9 2026 — estimated 9 million bpd effectively removed due to Iran war
+  • CME FedWatch Tool post-ceasefire — cut odds by end-2026 jumped from 14% to over 30% after April 14 c
+  • Citi analysts April 2026 — projected 75 basis points of cuts in September, October, December 2026 if
+
+Next episode: Citi says three cuts by December. The dot plot says one. Which desk is reading this right?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>20:05</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Fed rate cuts, Iran conflict oil, Brent crude, Strait of Hormuz, inflation 2026, oil shock, Federal Reserve, gas prices, portfolio, ceasefire</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your Gas Bill This Week: Iran, Hormuz, and What $4.14 Gas Does to the Fed</title>
