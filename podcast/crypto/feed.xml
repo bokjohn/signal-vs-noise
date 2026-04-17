@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:18:33 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Deutsche Börse's $200M Kraken Bet: TradFi Signal or Overpriced Hype?</title>
+      <description><![CDATA[Deutsche Börse just dropped $200 million for a 1.5% stake in Kraken — but here's the number nobody's talking about: that values Kraken at $13.3 billion, a 33% markdown from its $20 billion valuation just five months ago. Marcus sees the infrastructure play of the decade. James sees a minority stake with no control buying into a declining asset. With Bitcoin at $77,340 and crypto momentum building this week, we dig into what this deal actually means for your wallet.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Deutsche Börse press release, April 2026 — $200M secondary stake in Payward Inc., 1.5% fully diluted
+  • Kraken November 2025 funding round — $200M raise valuing Kraken at $20B, investors included Citadel 
+  • Deutsche Börse-Kraken December 2025 partnership announcement — strategic alliance to bridge TradFi a
+  • Deutsche Börse Clearstream announcement, March 2025 — crypto custody and settlement services
+  • 360X DLT Pilot Regime license — Deutsche Börse subsidiary enabling tokenized stock trading from Febr
+
+Next episode: Kraken's IPO is filed but unlaunched. If Deutsche Börse just bought in at $13.3B — what does that tell us about the IPO price?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Deutsche Börse just dropped $200 million for a 1.5% stake in Kraken — but here's the number nobody's talking about: that values Kraken at $13.3 billion, a 33% markdown from its $20 billion valuation just five months ago. Marcus sees the infrastructure play of the decade. James sees a minority stake with no control buying into a declining asset. With Bitcoin at $77,340 and crypto momentum building this week, we dig into what this deal actually means for your wallet.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Deutsche Börse press release, April 2026 — $200M secondary stake in Payward Inc., 1.5% fully diluted
+  • Kraken November 2025 funding round — $200M raise valuing Kraken at $20B, investors included Citadel 
+  • Deutsche Börse-Kraken December 2025 partnership announcement — strategic alliance to bridge TradFi a
+  • Deutsche Börse Clearstream announcement, March 2025 — crypto custody and settlement services
+  • 360X DLT Pilot Regime license — Deutsche Börse subsidiary enabling tokenized stock trading from Febr
+
+Next episode: Kraken's IPO is filed but unlaunched. If Deutsche Börse just bought in at $13.3B — what does that tell us about the IPO price?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/crypto/ep008.mp3" length="46847934" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep008.mp3</guid>
+      <pubDate>Fri, 17 Apr 2026 14:17:48 GMT</pubDate>
+      <itunes:title>Deutsche Börse's $200M Kraken Bet: TradFi Signal or Overpriced Hype?</itunes:title>
+      <itunes:summary><![CDATA[Deutsche Börse just dropped $200 million for a 1.5% stake in Kraken — but here's the number nobody's talking about: that values Kraken at $13.3 billion, a 33% markdown from its $20 billion valuation just five months ago. Marcus sees the infrastructure play of the decade. James sees a minority stake with no control buying into a declining asset. With Bitcoin at $77,340 and crypto momentum building this week, we dig into what this deal actually means for your wallet.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Deutsche Börse press release, April 2026 — $200M secondary stake in Payward Inc., 1.5% fully diluted
+  • Kraken November 2025 funding round — $200M raise valuing Kraken at $20B, investors included Citadel 
+  • Deutsche Börse-Kraken December 2025 partnership announcement — strategic alliance to bridge TradFi a
+  • Deutsche Börse Clearstream announcement, March 2025 — crypto custody and settlement services
+  • 360X DLT Pilot Regime license — Deutsche Börse subsidiary enabling tokenized stock trading from Febr
+
+Next episode: Kraken's IPO is filed but unlaunched. If Deutsche Börse just bought in at $13.3B — what does that tell us about the IPO price?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>19:29</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Deutsche Börse, Kraken, TradFi crypto integration, tokenized assets, xStocks, 360X, Clearstream, crypto IPO, institutional crypto, crypto infrastructure, Payward Inc, tokenized equities, crypto custody, DLT Pilot Regime</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Tether's GENIUS Act Gamble: Compliant or Just Rebranded?</title>
