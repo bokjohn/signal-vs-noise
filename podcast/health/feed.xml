@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 14:18:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:59:35 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -17,7 +17,7 @@
       <itunes:name>Signal vs. Noise</itunes:name>
       <itunes:email>hello@getmabs.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art.jpg"/>
+    <itunes:image href="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/assets/cover-art-health.jpg"/>
     <itunes:category text="Health &amp; Fitness">
       <itunes:category text="Nutrition"/>
     </itunes:category>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>National Health Insurance: 20 Million Americans, One Expiration Date</title>
+      <description><![CDATA[The U.S. health insurance debate just got a concrete deadline: enhanced ACA subsidies expired, and estimates suggest over 20 million Americans are already feeling the cost. Zara cuts through the political noise to examine what the evidence actually says about national health insurance — the real costs, the real coverage gaps, and what history tells us about mandates, markets, and who actually pays. No party line. Just data.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Mark Shepard, Harvard Kennedy School — analysis of health insurance subsidies debate, October 20, 20
+  • ACA individual plan premium data — average premiums for a 50-year-old rose 129% since 2014 vs. 68% f
+  • Post-2025 subsidy expiration — enrollment dropped by over 1 million, premiums doubled on average
+  • CBO projections cited by AMA — OBBBA Medicaid expansion end could cause 10 million to lose coverage 
+  • Dr. Aizuss, AMA — letter with 90+ physician groups warning about OBBBA Medicaid and ACA premium tax 
+
+Next episode: We didn't get to the one question underneath all of this: does MORE coverage actually produce BETTER health outcomes? The data there will genuinely surprise you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The U.S. health insurance debate just got a concrete deadline: enhanced ACA subsidies expired, and estimates suggest over 20 million Americans are already feeling the cost. Zara cuts through the political noise to examine what the evidence actually says about national health insurance — the real costs, the real coverage gaps, and what history tells us about mandates, markets, and who actually pays. No party line. Just data.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Mark Shepard, Harvard Kennedy School — analysis of health insurance subsidies debate, October 20, 20
+  • ACA individual plan premium data — average premiums for a 50-year-old rose 129% since 2014 vs. 68% f
+  • Post-2025 subsidy expiration — enrollment dropped by over 1 million, premiums doubled on average
+  • CBO projections cited by AMA — OBBBA Medicaid expansion end could cause 10 million to lose coverage 
+  • Dr. Aizuss, AMA — letter with 90+ physician groups warning about OBBBA Medicaid and ACA premium tax 
+
+Next episode: We didn't get to the one question underneath all of this: does MORE coverage actually produce BETTER health outcomes? The data there will genuinely surprise you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep009.mp3" length="45572847" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep009.mp3</guid>
+      <pubDate>Sat, 18 Apr 2026 13:58:55 GMT</pubDate>
+      <itunes:title>National Health Insurance: 20 Million Americans, One Expiration Date</itunes:title>
+      <itunes:summary><![CDATA[The U.S. health insurance debate just got a concrete deadline: enhanced ACA subsidies expired, and estimates suggest over 20 million Americans are already feeling the cost. Zara cuts through the political noise to examine what the evidence actually says about national health insurance — the real costs, the real coverage gaps, and what history tells us about mandates, markets, and who actually pays. No party line. Just data.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • Mark Shepard, Harvard Kennedy School — analysis of health insurance subsidies debate, October 20, 20
+  • ACA individual plan premium data — average premiums for a 50-year-old rose 129% since 2014 vs. 68% f
+  • Post-2025 subsidy expiration — enrollment dropped by over 1 million, premiums doubled on average
+  • CBO projections cited by AMA — OBBBA Medicaid expansion end could cause 10 million to lose coverage 
+  • Dr. Aizuss, AMA — letter with 90+ physician groups warning about OBBBA Medicaid and ACA premium tax 
+
+Next episode: We didn't get to the one question underneath all of this: does MORE coverage actually produce BETTER health outcomes? The data there will genuinely surprise you.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:58</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>national health insurance, ACA subsidies, health insurance mandate, single payer, Medicaid, healthcare costs, One Big Beautiful Bill, ACA premiums, health policy 2026, universal healthcare</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Corporate Disease: How Industry Buried the Science on Your Health</title>
