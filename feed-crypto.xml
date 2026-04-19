@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Apr 2026 13:59:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:08:38 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>CLARITY Act Markup: Is This Bill Actually Worse Than Nothing?</title>
+      <description><![CDATA[The CLARITY Act Senate markup is happening this week — and the crypto community is more divided than ever. Marcus sees a landmark regulatory win hiding behind messy politics. James sees a bank-lobbied compromise that could lock in the wrong rules for a decade. Bitcoin at $75,956, ETH at $2,339, and the legislation that could move both — today.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Brad Garlinghouse revised CLARITY Act passage forecast April 13 2026 — shifted from 80% probability 
+  • Coinbase CEO Brian Armstrong reversed opposition to CLARITY Act April 10 2026 — following Treasury S
+  • White House Council of Economic Advisers 21-page analysis April 8 2026 — full stablecoin yield ban i
+  • SEC Chair Paul Atkins and David Sacks coordinated endorsement statements — Senate Banking Committee 
+  • CLARITY Act passed House 294-134 bipartisan vote July 2025 — stalled in Senate Banking Committee ove
+
+Next episode: If CLARITY passes, who actually enforces it — and does the CFTC have the budget to do it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The CLARITY Act Senate markup is happening this week — and the crypto community is more divided than ever. Marcus sees a landmark regulatory win hiding behind messy politics. James sees a bank-lobbied compromise that could lock in the wrong rules for a decade. Bitcoin at $75,956, ETH at $2,339, and the legislation that could move both — today.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Brad Garlinghouse revised CLARITY Act passage forecast April 13 2026 — shifted from 80% probability 
+  • Coinbase CEO Brian Armstrong reversed opposition to CLARITY Act April 10 2026 — following Treasury S
+  • White House Council of Economic Advisers 21-page analysis April 8 2026 — full stablecoin yield ban i
+  • SEC Chair Paul Atkins and David Sacks coordinated endorsement statements — Senate Banking Committee 
+  • CLARITY Act passed House 294-134 bipartisan vote July 2025 — stalled in Senate Banking Committee ove
+
+Next episode: If CLARITY passes, who actually enforces it — and does the CFTC have the budget to do it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/crypto/ep009.mp3" length="46652082" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep009.mp3</guid>
+      <pubDate>Sun, 19 Apr 2026 14:07:56 GMT</pubDate>
+      <itunes:title>CLARITY Act Markup: Is This Bill Actually Worse Than Nothing?</itunes:title>
+      <itunes:summary><![CDATA[The CLARITY Act Senate markup is happening this week — and the crypto community is more divided than ever. Marcus sees a landmark regulatory win hiding behind messy politics. James sees a bank-lobbied compromise that could lock in the wrong rules for a decade. Bitcoin at $75,956, ETH at $2,339, and the legislation that could move both — today.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  10:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • Brad Garlinghouse revised CLARITY Act passage forecast April 13 2026 — shifted from 80% probability 
+  • Coinbase CEO Brian Armstrong reversed opposition to CLARITY Act April 10 2026 — following Treasury S
+  • White House Council of Economic Advisers 21-page analysis April 8 2026 — full stablecoin yield ban i
+  • SEC Chair Paul Atkins and David Sacks coordinated endorsement statements — Senate Banking Committee 
+  • CLARITY Act passed House 294-134 bipartisan vote July 2025 — stalled in Senate Banking Committee ove
+
+Next episode: If CLARITY passes, who actually enforces it — and does the CFTC have the budget to do it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>19:25</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>CLARITY Act, crypto regulation, Senate markup, stablecoin yield ban, CFTC jurisdiction, DeFi safe harbor, Brian Armstrong, Brad Garlinghouse, SEC, digital commodities, crypto legislation 2026</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Deutsche Börse's $200M Kraken Bet: TradFi Signal or Overpriced Hype?</title>
