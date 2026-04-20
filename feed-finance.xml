@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Apr 2026 14:08:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 14:03:38 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Your Rate Cuts This Week: Is the Ceasefire Holding — Or Is Oil About to Spike Again?</title>
+      <description><![CDATA[The U.S.-Iran ceasefire sent rate cut odds surging last week, but this week the data tells a more complicated story. Marcus thinks the worst is over and the Fed can finally move. James thinks one pipeline incident away from $115 oil should terrify every bond holder in America. They disagree — loudly.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve Bank of Dallas — WTI crude baseline scenario peaks at $94/barrel April-May 2026; ext
+  • Federal Reserve Bank of Dallas — Historical analysis 1990 to mid-2025: geopolitical oil shocks do no
+  • Federal Reserve March Summary of Economic Projections — Median projects one 25bp cut in 2026, one in
+  • Federal Reserve Bank of Atlanta — Q1 2026 annualized GDP growth estimated at 2.7% as of March 18, 20
+  • Fed Governor Christopher Waller (April 17, 2026) — Open to cutting rates later this year if Middle E
+
+Next episode: Kevin Warsh takes the Fed chair seat — does his track record say hawk or dove when oil is the problem?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The U.S.-Iran ceasefire sent rate cut odds surging last week, but this week the data tells a more complicated story. Marcus thinks the worst is over and the Fed can finally move. James thinks one pipeline incident away from $115 oil should terrify every bond holder in America. They disagree — loudly.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve Bank of Dallas — WTI crude baseline scenario peaks at $94/barrel April-May 2026; ext
+  • Federal Reserve Bank of Dallas — Historical analysis 1990 to mid-2025: geopolitical oil shocks do no
+  • Federal Reserve March Summary of Economic Projections — Median projects one 25bp cut in 2026, one in
+  • Federal Reserve Bank of Atlanta — Q1 2026 annualized GDP growth estimated at 2.7% as of March 18, 20
+  • Fed Governor Christopher Waller (April 17, 2026) — Open to cutting rates later this year if Middle E
+
+Next episode: Kevin Warsh takes the Fed chair seat — does his track record say hawk or dove when oil is the problem?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/finance/ep011.mp3" length="41336560" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep011.mp3</guid>
+      <pubDate>Mon, 20 Apr 2026 14:03:00 GMT</pubDate>
+      <itunes:title>Your Rate Cuts This Week: Is the Ceasefire Holding — Or Is Oil About to Spike Again?</itunes:title>
+      <itunes:summary><![CDATA[The U.S.-Iran ceasefire sent rate cut odds surging last week, but this week the data tells a more complicated story. Marcus thinks the worst is over and the Fed can finally move. James thinks one pipeline incident away from $115 oil should terrify every bond holder in America. They disagree — loudly.
+
+Timestamps:
+  00:00 — Cold Open
+  02:00 — Market Pulse
+  04:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — What To Watch
+
+Sources cited in this episode:
+  • Federal Reserve Bank of Dallas — WTI crude baseline scenario peaks at $94/barrel April-May 2026; ext
+  • Federal Reserve Bank of Dallas — Historical analysis 1990 to mid-2025: geopolitical oil shocks do no
+  • Federal Reserve March Summary of Economic Projections — Median projects one 25bp cut in 2026, one in
+  • Federal Reserve Bank of Atlanta — Q1 2026 annualized GDP growth estimated at 2.7% as of March 18, 20
+  • Fed Governor Christopher Waller (April 17, 2026) — Open to cutting rates later this year if Middle E
+
+Next episode: Kevin Warsh takes the Fed chair seat — does his track record say hawk or dove when oil is the problem?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>17:12</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>Fed rate cuts 2026, oil inflation, Middle East war Fed policy, Strait of Hormuz, WTI crude, gas prices 2026, Jerome Powell, Kevin Warsh, ceasefire oil market, inflation 2026, monetary policy, signal vs noise finance</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Your Rate Cuts This Week: The Ceasefire Changed Everything — Or Did It?</title>
