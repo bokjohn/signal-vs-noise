@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 14:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:59:49 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -106,6 +106,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>Fed rate cuts 2026, oil inflation, Middle East war Fed policy, Strait of Hormuz, WTI crude, gas prices 2026, Jerome Powell, Kevin Warsh, ceasefire oil market, inflation 2026, monetary policy, signal vs noise finance</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Mercury Rollback: The 90% Reduction Nobody's Talking About</title>
+      <description><![CDATA[On February 20, 2026, the EPA repealed Biden-era Mercury and Air Toxics Standards — and the public health debate that followed misses the most important number. Zara cuts through the politics to ask: when emissions are already down 90%, what does a rollback actually cost us? The answer is more complicated than either side admits.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • EPA MATS rulemaking data — mercury emissions from power sector reduced 90% since MATS implementation
+  • EPA February 20, 2026 final rule — repeal of 2024 MATS updates, reinstatement of 2012 standards
+  • EPA 2024 analysis — $33 million in annual health benefits attributed to 2024 MATS updates over 2012 
+  • EPA data — sulfur dioxide emissions from coal plants rose 18% following rollback and increased coal 
+  • EPA 2025 action — two-year compliance exemptions granted to 71 coal plants under Section 112(i)(4)
+
+Next episode: We didn't get to the fish consumption question — freshwater fish, bioaccumulation, and what the monitoring gap actually means for your diet.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[On February 20, 2026, the EPA repealed Biden-era Mercury and Air Toxics Standards — and the public health debate that followed misses the most important number. Zara cuts through the politics to ask: when emissions are already down 90%, what does a rollback actually cost us? The answer is more complicated than either side admits.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • EPA MATS rulemaking data — mercury emissions from power sector reduced 90% since MATS implementation
+  • EPA February 20, 2026 final rule — repeal of 2024 MATS updates, reinstatement of 2012 standards
+  • EPA 2024 analysis — $33 million in annual health benefits attributed to 2024 MATS updates over 2012 
+  • EPA data — sulfur dioxide emissions from coal plants rose 18% following rollback and increased coal 
+  • EPA 2025 action — two-year compliance exemptions granted to 71 coal plants under Section 112(i)(4)
+
+Next episode: We didn't get to the fish consumption question — freshwater fish, bioaccumulation, and what the monitoring gap actually means for your diet.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep010.mp3" length="47236732" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep010.mp3</guid>
+      <pubDate>Tue, 21 Apr 2026 13:59:07 GMT</pubDate>
+      <itunes:title>Mercury Rollback: The 90% Reduction Nobody's Talking About</itunes:title>
+      <itunes:summary><![CDATA[On February 20, 2026, the EPA repealed Biden-era Mercury and Air Toxics Standards — and the public health debate that followed misses the most important number. Zara cuts through the politics to ask: when emissions are already down 90%, what does a rollback actually cost us? The answer is more complicated than either side admits.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  18:00 — The Verdict
+
+Sources cited in this episode:
+  • EPA MATS rulemaking data — mercury emissions from power sector reduced 90% since MATS implementation
+  • EPA February 20, 2026 final rule — repeal of 2024 MATS updates, reinstatement of 2012 standards
+  • EPA 2024 analysis — $33 million in annual health benefits attributed to 2024 MATS updates over 2012 
+  • EPA data — sulfur dioxide emissions from coal plants rose 18% following rollback and increased coal 
+  • EPA 2025 action — two-year compliance exemptions granted to 71 coal plants under Section 112(i)(4)
+
+Next episode: We didn't get to the fish consumption question — freshwater fish, bioaccumulation, and what the monitoring gap actually means for your diet.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>19:39</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>mercury, MATS, EPA rollback, air toxics, coal power plants, public health, environmental health, mercury emissions, Clean Air Act, pollution health effects</itunes:keywords>
       
     </item>
 
