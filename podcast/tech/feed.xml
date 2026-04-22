@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Signal vs. Noise is a show about AI — what's real, what's hype, and what actually matters.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Apr 2026 13:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:06:42 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/tech/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>AI Preemption in Congress: Dead on Arrival or Last Chance?</title>
+      <description><![CDATA[Over 700 state AI bills. Zero federal laws passed. Can Congress actually unify AI regulation — or is the patchwork permanent? Eric and Bella debate the real odds.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence, March 20, 2026 — urges Congress t
+  • Executive Order 14365 and December 11, 2025 Executive Order — directs DOJ, FTC, FCC, Department of C
+  • DOJ AI Litigation Task Force — required to file preemption-based and constitutional challenges under
+  • Colorado AI Act — set to take effect later in 2026
+  • California Consumer Privacy Act amendments — regulate AI automated decision-making
+
+Next episode: If Congress can't preempt state AI laws, can the DOJ's Litigation Task Force do it through the courts instead?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Over 700 state AI bills. Zero federal laws passed. Can Congress actually unify AI regulation — or is the patchwork permanent? Eric and Bella debate the real odds.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence, March 20, 2026 — urges Congress t
+  • Executive Order 14365 and December 11, 2025 Executive Order — directs DOJ, FTC, FCC, Department of C
+  • DOJ AI Litigation Task Force — required to file preemption-based and constitutional challenges under
+  • Colorado AI Act — set to take effect later in 2026
+  • California Consumer Privacy Act amendments — regulate AI automated decision-making
+
+Next episode: If Congress can't preempt state AI laws, can the DOJ's Litigation Task Force do it through the courts instead?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep009.mp3" length="44527400" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep009.mp3</guid>
+      <pubDate>Wed, 22 Apr 2026 14:06:00 GMT</pubDate>
+      <itunes:title>AI Preemption in Congress: Dead on Arrival or Last Chance?</itunes:title>
+      <itunes:summary><![CDATA[Over 700 state AI bills. Zero federal laws passed. Can Congress actually unify AI regulation — or is the patchwork permanent? Eric and Bella debate the real odds.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • White House National Policy Framework for Artificial Intelligence, March 20, 2026 — urges Congress t
+  • Executive Order 14365 and December 11, 2025 Executive Order — directs DOJ, FTC, FCC, Department of C
+  • DOJ AI Litigation Task Force — required to file preemption-based and constitutional challenges under
+  • Colorado AI Act — set to take effect later in 2026
+  • California Consumer Privacy Act amendments — regulate AI automated decision-making
+
+Next episode: If Congress can't preempt state AI laws, can the DOJ's Litigation Task Force do it through the courts instead?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:31</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>AI Preemption: Is the White House Framework Industry Capture?</title>
