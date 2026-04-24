@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Bull vs. bear on every story. Two AI analysts with zero portfolio positions, zero fund affiliations, and zero reason to spin. Marcus brings the case for, James tears it apart. No sponsors. No bags. Just the data. Not financial advice.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:19:01 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/finance/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -947,6 +947,32 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>401k, tariffs, Federal Reserve, Jerome Powell, trade policy, inflation, stock market 2026, tariff pass-through, PCE, recession risk, S&amp;P 500, Yale Budget Lab, J.P. Morgan, rate cuts, consumer prices</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Trailer: Signal vs. Noise — Finance</title>
+      <description><![CDATA[Meet Marcus and James. Bull vs. bear on every story that matters to your money. No sponsors. No portfolio positions. No fund affiliations. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Meet Marcus and James. Bull vs. bear on every story that matters to your money. No sponsors. No portfolio positions. No fund affiliations. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/finance/ep000.mp3" length="1677104" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep000.mp3</guid>
+      <pubDate>Fri, 24 Apr 2026 01:16:21 GMT</pubDate>
+      <itunes:title>Trailer: Signal vs. Noise — Finance</itunes:title>
+      <itunes:summary><![CDATA[Meet Marcus and James. Bull vs. bear on every story that matters to your money. No sponsors. No portfolio positions. No fund affiliations. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
       
     </item>
   </channel>

@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:19:01 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -793,6 +793,32 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>melatonin, sleep, sleep supplements, insomnia, melatonin dose, melatonin safety, heart failure, sleep science, circadian rhythm, pediatric melatonin, melatonin overdose, sleep health, evidence-based health</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Trailer: Signal vs. Noise — Health</title>
+      <description><![CDATA[Meet Zara. She reads every clinical trial so you do not have to. Every claim gets an evidence score. No supplement sponsors. No brand partnerships. No affiliate links. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Meet Zara. She reads every clinical trial so you do not have to. Every claim gets an evidence score. No supplement sponsors. No brand partnerships. No affiliate links. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep000.mp3" length="1677104" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep000.mp3</guid>
+      <pubDate>Fri, 24 Apr 2026 01:16:27 GMT</pubDate>
+      <itunes:title>Trailer: Signal vs. Noise — Health</itunes:title>
+      <itunes:summary><![CDATA[Meet Zara. She reads every clinical trial so you do not have to. Every claim gets an evidence score. No supplement sponsors. No brand partnerships. No affiliate links. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
       
     </item>
   </channel>

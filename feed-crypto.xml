@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 01:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 01:19:01 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -716,6 +716,32 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>Bitcoin ETF, IBIT, BlackRock, spot Bitcoin ETF inflows, institutional accumulation, ETF redemptions, MicroStrategy, MARA, on-chain data, crypto 2026, BTC price, authorized participants, ETF creation mechanism, signal vs noise crypto</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Trailer: Signal vs. Noise — Crypto</title>
+      <description><![CDATA[Meet Marcus and James on crypto. On-chain data, tokenomics, and real analysis in a space full of paid shills. No bags. No advisory positions. No sponsored tokens. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Meet Marcus and James on crypto. On-chain data, tokenomics, and real analysis in a space full of paid shills. No bags. No advisory positions. No sponsored tokens. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/crypto/ep000.mp3" length="1677104" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep000.mp3</guid>
+      <pubDate>Fri, 24 Apr 2026 01:16:24 GMT</pubDate>
+      <itunes:title>Trailer: Signal vs. Noise — Crypto</itunes:title>
+      <itunes:summary><![CDATA[Meet Marcus and James on crypto. On-chain data, tokenomics, and real analysis in a space full of paid shills. No bags. No advisory positions. No sponsored tokens. Subscribe wherever you listen.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>1:09</itunes:duration>
+      <itunes:episode>0</itunes:episode>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
       
     </item>
   </channel>
