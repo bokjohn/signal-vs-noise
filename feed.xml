@@ -15,7 +15,7 @@ Subscribe to the network feed for all shows, or follow individual channels.
 
 Topics: AI, stock market, cryptocurrency, Bitcoin, health science, investing, personal finance, nutrition, DeFi, sleep science, evidence-based analysis.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:17:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 23:29:44 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -414,6 +414,83 @@ Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial position
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>Fed rate cuts, Iran conflict oil, Brent crude, Strait of Hormuz, inflation 2026, oil shock, Federal Reserve, gas prices, portfolio, ceasefire</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Stablecoins Hit $28 Trillion: Core Infrastructure or Regulatory Trap?</title>
+      <description><![CDATA[This week stablecoin transaction volume hit roughly $10 trillion in January alone — and the Federal Reserve just dropped an April 2026 analysis flagging three structural vulnerabilities in the ecosystem. Marcus sees unstoppable infrastructure momentum. James sees a regulatory cage match that could strip everything that makes stablecoins useful. They don't agree.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • BVNK 2025 Annual Report — $30B annualized stablecoin payment volume, 2.8M transactions, 226 new cust
+  • Stablecoin industry data — $28 trillion in real economic volume processed in 2025; $1.5 quadrillion 
+  • Stripe acquisition of Bridge for $1.1 billion — early 2025
+  • Stablecoin transaction volume — approximately $10.3 trillion in January 2026
+  • GENIUS Act — signed July 2025, bans interest payments to holders, requires full reserves and AML pro
+
+Next episode: If stablecoins become bank-grade infrastructure — what happens to DeFi protocols that can't pass AML screening?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[This week stablecoin transaction volume hit roughly $10 trillion in January alone — and the Federal Reserve just dropped an April 2026 analysis flagging three structural vulnerabilities in the ecosystem. Marcus sees unstoppable infrastructure momentum. James sees a regulatory cage match that could strip everything that makes stablecoins useful. They don't agree.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • BVNK 2025 Annual Report — $30B annualized stablecoin payment volume, 2.8M transactions, 226 new cust
+  • Stablecoin industry data — $28 trillion in real economic volume processed in 2025; $1.5 quadrillion 
+  • Stripe acquisition of Bridge for $1.1 billion — early 2025
+  • Stablecoin transaction volume — approximately $10.3 trillion in January 2026
+  • GENIUS Act — signed July 2025, bans interest payments to holders, requires full reserves and AML pro
+
+Next episode: If stablecoins become bank-grade infrastructure — what happens to DeFi protocols that can't pass AML screening?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/crypto/ep010.mp3" length="41324104" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep010.mp3</guid>
+      <pubDate>Sun, 26 Apr 2026 23:29:07 GMT</pubDate>
+      <itunes:title>Stablecoins Hit $28 Trillion: Core Infrastructure or Regulatory Trap?</itunes:title>
+      <itunes:summary><![CDATA[This week stablecoin transaction volume hit roughly $10 trillion in January alone — and the Federal Reserve just dropped an April 2026 analysis flagging three structural vulnerabilities in the ecosystem. Marcus sees unstoppable infrastructure momentum. James sees a regulatory cage match that could strip everything that makes stablecoins useful. They don't agree.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  02:00 — Segment 1
+  07:00 — Segment 2
+  16:00 — Segment 3
+  19:00 — On Chain Watch
+
+Sources cited in this episode:
+  • BVNK 2025 Annual Report — $30B annualized stablecoin payment volume, 2.8M transactions, 226 new cust
+  • Stablecoin industry data — $28 trillion in real economic volume processed in 2025; $1.5 quadrillion 
+  • Stripe acquisition of Bridge for $1.1 billion — early 2025
+  • Stablecoin transaction volume — approximately $10.3 trillion in January 2026
+  • GENIUS Act — signed July 2025, bans interest payments to holders, requires full reserves and AML pro
+
+Next episode: If stablecoins become bank-grade infrastructure — what happens to DeFi protocols that can't pass AML screening?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>17:11</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>stablecoins, GENIUS Act, AML compliance, reserve requirements, USDC, USDT, Circle, stablecoin regulation 2026, crypto infrastructure, BVNK, Tether Plasma, stablecoin volume, crypto payments, DeFi settlement</itunes:keywords>
       
     </item>
 
