@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Signal vs. Noise is a show about AI — what's real, what's hype, and what actually matters.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:02:05 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/tech/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>DOJ's AI Task Force: Can Courts Do What Congress Won't?</title>
+      <description><![CDATA[Congress rejected AI preemption 99-1. Now the DOJ's AI Litigation Task Force is trying courts instead. Can executive litigation replace legislation — or is this constitutionally doomed?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • Executive Order 14365 (December 11, 2025) — directing DOJ to establish AI Litigation Task Force with
+  • DOJ AI Litigation Task Force Memorandum (January 9, 2026) — formally establishing the Task Force und
+  • One Big Beautiful Bill Act — AI preemption language stripped by 99-1 Senate vote
+  • FY26 defense authorization bill — AI preemption language rejected a second time by Congress
+  • EO 14365 — Secretary of Commerce directed to publish evaluation of burdensome state AI laws within 9
+
+Next episode: If the DOJ loses its first Commerce Clause challenge, does the entire preemption strategy collapse overnight?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[Congress rejected AI preemption 99-1. Now the DOJ's AI Litigation Task Force is trying courts instead. Can executive litigation replace legislation — or is this constitutionally doomed?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • Executive Order 14365 (December 11, 2025) — directing DOJ to establish AI Litigation Task Force with
+  • DOJ AI Litigation Task Force Memorandum (January 9, 2026) — formally establishing the Task Force und
+  • One Big Beautiful Bill Act — AI preemption language stripped by 99-1 Senate vote
+  • FY26 defense authorization bill — AI preemption language rejected a second time by Congress
+  • EO 14365 — Secretary of Commerce directed to publish evaluation of burdensome state AI laws within 9
+
+Next episode: If the DOJ loses its first Commerce Clause challenge, does the entire preemption strategy collapse overnight?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/ep010.mp3" length="44233531" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep010.mp3</guid>
+      <pubDate>Thu, 30 Apr 2026 14:09:31 GMT</pubDate>
+      <itunes:title>DOJ's AI Task Force: Can Courts Do What Congress Won't?</itunes:title>
+      <itunes:summary><![CDATA[Congress rejected AI preemption 99-1. Now the DOJ's AI Litigation Task Force is trying courts instead. Can executive litigation replace legislation — or is this constitutionally doomed?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  07:00 — Segment 2
+  19:00 — Segment 3
+  22:00 — Recap
+
+Sources cited in this episode:
+  • Executive Order 14365 (December 11, 2025) — directing DOJ to establish AI Litigation Task Force with
+  • DOJ AI Litigation Task Force Memorandum (January 9, 2026) — formally establishing the Task Force und
+  • One Big Beautiful Bill Act — AI preemption language stripped by 99-1 Senate vote
+  • FY26 defense authorization bill — AI preemption language rejected a second time by Congress
+  • EO 14365 — Secretary of Commerce directed to publish evaluation of burdensome state AI laws within 9
+
+Next episode: If the DOJ loses its first Commerce Clause challenge, does the entire preemption strategy collapse overnight?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:24</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      
+      
+    </item>
 
     <item>
       <title>AI Preemption in Congress: Dead on Arrival or Last Chance?</title>

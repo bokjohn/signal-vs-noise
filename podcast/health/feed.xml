@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[Evidence-first health analysis by an AI host with no supplement deals, no sponsors, and no agenda. Maya reads every clinical trial so you don't have to. Each episode ends with an evidence confidence score — because transparency matters more than certainty.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:02:05 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/health/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,314 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>GLP-1 Drugs: $1,000/Month — Are They Actually Worth It?</title>
+      <description><![CDATA[GLP-1 drugs like Wegovy and Zepbound are delivering real weight loss results — but Blue Cross Blue Shield of Massachusetts just reported a $400M operating loss with GLP-1s as the single largest cost driver. Zara breaks down what the clinical trials actually show, what the cost-effectiveness data says, and what the arrival of oral semaglutide in 2026 means for the 42% of Americans with obesity.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • SURMOUNT-1 trial — tirzepatide averaged 22.5% body weight reduction at maximum dose over 72 weeks; 9
+  • SURMOUNT-5 head-to-head trial — tirzepatide 20.2% vs. semaglutide 13.7% weight loss over 72 weeks
+  • STEP-1 trial — semaglutide 15-16.9% body weight reduction over 68 weeks
+  • SELECT trial — semaglutide reduced major cardiovascular events in obese patients with CVD; FDA suppl
+  • SUSTAIN-6/LEADER trials — 14-26% MACE reductions for semaglutide/liraglutide
+
+Next episode: Are GLP-1 drugs actually fixing obesity — or just treating it forever while you stay on them?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[GLP-1 drugs like Wegovy and Zepbound are delivering real weight loss results — but Blue Cross Blue Shield of Massachusetts just reported a $400M operating loss with GLP-1s as the single largest cost driver. Zara breaks down what the clinical trials actually show, what the cost-effectiveness data says, and what the arrival of oral semaglutide in 2026 means for the 42% of Americans with obesity.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • SURMOUNT-1 trial — tirzepatide averaged 22.5% body weight reduction at maximum dose over 72 weeks; 9
+  • SURMOUNT-5 head-to-head trial — tirzepatide 20.2% vs. semaglutide 13.7% weight loss over 72 weeks
+  • STEP-1 trial — semaglutide 15-16.9% body weight reduction over 68 weeks
+  • SELECT trial — semaglutide reduced major cardiovascular events in obese patients with CVD; FDA suppl
+  • SUSTAIN-6/LEADER trials — 14-26% MACE reductions for semaglutide/liraglutide
+
+Next episode: Are GLP-1 drugs actually fixing obesity — or just treating it forever while you stay on them?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep016.mp3" length="51961380" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep016.mp3</guid>
+      <pubDate>Tue, 12 May 2026 14:01:59 GMT</pubDate>
+      <itunes:title>GLP-1 Drugs: $1,000/Month — Are They Actually Worth It?</itunes:title>
+      <itunes:summary><![CDATA[GLP-1 drugs like Wegovy and Zepbound are delivering real weight loss results — but Blue Cross Blue Shield of Massachusetts just reported a $400M operating loss with GLP-1s as the single largest cost driver. Zara breaks down what the clinical trials actually show, what the cost-effectiveness data says, and what the arrival of oral semaglutide in 2026 means for the 42% of Americans with obesity.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  17:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • SURMOUNT-1 trial — tirzepatide averaged 22.5% body weight reduction at maximum dose over 72 weeks; 9
+  • SURMOUNT-5 head-to-head trial — tirzepatide 20.2% vs. semaglutide 13.7% weight loss over 72 weeks
+  • STEP-1 trial — semaglutide 15-16.9% body weight reduction over 68 weeks
+  • SELECT trial — semaglutide reduced major cardiovascular events in obese patients with CVD; FDA suppl
+  • SUSTAIN-6/LEADER trials — 14-26% MACE reductions for semaglutide/liraglutide
+
+Next episode: Are GLP-1 drugs actually fixing obesity — or just treating it forever while you stay on them?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>21:37</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>GLP-1 drugs, semaglutide, tirzepatide, Wegovy, Zepbound, obesity treatment, weight loss drugs, cost effectiveness, ICER, SELECT trial, SURMOUNT trial, health economics, obesity medication, Ozempic</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Vaccine Science Under Siege: What the ACIP Charter Change Actually Means</title>
+      <description><![CDATA[On April 9, 2026, the CDC quietly rewrote the charter for its top vaccine advisory committee — and 130+ medical organizations immediately sounded the alarm. But is this a public health catastrophe or an overdue correction? Zara reads the actual charter language, not the headlines, and scores the evidence on what this means for your family's vaccination decisions.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC Federal Register — Revised ACIP charter, effective April 1, 2026, published April 9, 2026: missi
+  • American Public Health Association joint statement, April 9, 2026 — 130+ medical, nursing, public he
+  • Infectious Diseases Society of America statement, April 9, 2026 — called changes 'alarming,' critici
+  • March 2026 court ruling — paused all ACIP recommendations retroactive to June 2024 due to insufficie
+  • Aaron Siri / Informed Consent Action Network — sent recommendations to Secretary Kennedy in 2026 to 
+
+Next episode: Do vaccine advisory panels in other countries face the same political pressure — and what does their data show?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[On April 9, 2026, the CDC quietly rewrote the charter for its top vaccine advisory committee — and 130+ medical organizations immediately sounded the alarm. But is this a public health catastrophe or an overdue correction? Zara reads the actual charter language, not the headlines, and scores the evidence on what this means for your family's vaccination decisions.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC Federal Register — Revised ACIP charter, effective April 1, 2026, published April 9, 2026: missi
+  • American Public Health Association joint statement, April 9, 2026 — 130+ medical, nursing, public he
+  • Infectious Diseases Society of America statement, April 9, 2026 — called changes 'alarming,' critici
+  • March 2026 court ruling — paused all ACIP recommendations retroactive to June 2024 due to insufficie
+  • Aaron Siri / Informed Consent Action Network — sent recommendations to Secretary Kennedy in 2026 to 
+
+Next episode: Do vaccine advisory panels in other countries face the same political pressure — and what does their data show?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep015.mp3" length="54423501" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep015.mp3</guid>
+      <pubDate>Sat, 09 May 2026 14:06:33 GMT</pubDate>
+      <itunes:title>Vaccine Science Under Siege: What the ACIP Charter Change Actually Means</itunes:title>
+      <itunes:summary><![CDATA[On April 9, 2026, the CDC quietly rewrote the charter for its top vaccine advisory committee — and 130+ medical organizations immediately sounded the alarm. But is this a public health catastrophe or an overdue correction? Zara reads the actual charter language, not the headlines, and scores the evidence on what this means for your family's vaccination decisions.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  09:00 — Segment 2
+  17:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC Federal Register — Revised ACIP charter, effective April 1, 2026, published April 9, 2026: missi
+  • American Public Health Association joint statement, April 9, 2026 — 130+ medical, nursing, public he
+  • Infectious Diseases Society of America statement, April 9, 2026 — called changes 'alarming,' critici
+  • March 2026 court ruling — paused all ACIP recommendations retroactive to June 2024 due to insufficie
+  • Aaron Siri / Informed Consent Action Network — sent recommendations to Secretary Kennedy in 2026 to 
+
+Next episode: Do vaccine advisory panels in other countries face the same political pressure — and what does their data show?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>22:39</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>ACIP, vaccine safety, CDC charter, vaccine confidence, childhood immunization, RFK Kennedy, public health, vaccine schedule, IDSA, APHA, vaccine hesitancy, Physicians for Informed Consent, Children's Health Defense</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>Measles 2026: 1,792 Cases — Is This a Vaccine Crisis or a Choice Crisis?</title>
+      <description><![CDATA[The US has already confirmed 1,792 measles cases in 2026, with the South Carolina outbreak now the largest single outbreak since 2000. But here's what the data actually shows: 92% of those cases are in unvaccinated people. Zara breaks down what the 2026 numbers mean for MMR efficacy, why hospitalization rates are actually falling, and what the real threat is — and it's not the vaccine failing.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC measles case count — 1,792 confirmed US cases as of April 23, 2026, 93% outbreak-associated acro
+  • CDC measles case count — 1,814 confirmed cases as of April 24, 2026, 24 new outbreaks
+  • South Carolina DHEC — 997 total cases as of April 2026, largest single US outbreak since 2000
+  • Utah Department of Health — 607 total cases, 410 diagnosed in 2026, 31 new cases in past three weeks
+  • CDC data — Texas 180 measles cases in 2026 as of late April CDC map update
+
+Next episode: Why do kindergarten MMR rates keep falling even in pro-vaccine communities — and what's actually driving it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The US has already confirmed 1,792 measles cases in 2026, with the South Carolina outbreak now the largest single outbreak since 2000. But here's what the data actually shows: 92% of those cases are in unvaccinated people. Zara breaks down what the 2026 numbers mean for MMR efficacy, why hospitalization rates are actually falling, and what the real threat is — and it's not the vaccine failing.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC measles case count — 1,792 confirmed US cases as of April 23, 2026, 93% outbreak-associated acro
+  • CDC measles case count — 1,814 confirmed cases as of April 24, 2026, 24 new outbreaks
+  • South Carolina DHEC — 997 total cases as of April 2026, largest single US outbreak since 2000
+  • Utah Department of Health — 607 total cases, 410 diagnosed in 2026, 31 new cases in past three weeks
+  • CDC data — Texas 180 measles cases in 2026 as of late April CDC map update
+
+Next episode: Why do kindergarten MMR rates keep falling even in pro-vaccine communities — and what's actually driving it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep013.mp3" length="44039442" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep013.mp3</guid>
+      <pubDate>Sat, 02 May 2026 14:17:01 GMT</pubDate>
+      <itunes:title>Measles 2026: 1,792 Cases — Is This a Vaccine Crisis or a Choice Crisis?</itunes:title>
+      <itunes:summary><![CDATA[The US has already confirmed 1,792 measles cases in 2026, with the South Carolina outbreak now the largest single outbreak since 2000. But here's what the data actually shows: 92% of those cases are in unvaccinated people. Zara breaks down what the 2026 numbers mean for MMR efficacy, why hospitalization rates are actually falling, and what the real threat is — and it's not the vaccine failing.
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Topic Frame
+  03:00 — Segment 1
+  08:00 — Segment 2
+  15:00 — Segment 3
+  19:00 — The Verdict
+
+Sources cited in this episode:
+  • CDC measles case count — 1,792 confirmed US cases as of April 23, 2026, 93% outbreak-associated acro
+  • CDC measles case count — 1,814 confirmed cases as of April 24, 2026, 24 new outbreaks
+  • South Carolina DHEC — 997 total cases as of April 2026, largest single US outbreak since 2000
+  • Utah Department of Health — 607 total cases, 410 diagnosed in 2026, 31 new cases in past three weeks
+  • CDC data — Texas 180 measles cases in 2026 as of late April CDC map update
+
+Next episode: Why do kindergarten MMR rates keep falling even in pro-vaccine communities — and what's actually driving it?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>18:19</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>measles 2026, MMR vaccine efficacy, measles outbreak, vaccine hesitancy, South Carolina measles, CDC measles data, measles hospitalization, public health 2026, measles cases USA, MMR two doses</itunes:keywords>
+      
+    </item>
+
+    <item>
+      <title>AI Therapy Chatbots: The 20% Problem Nobody's Talking About</title>
+      <description><![CDATA[A 2025 Stanford study found AI chatbots responded inappropriately to suicidal ideation 20% of the time. The FDA has authorized over 1,200 AI medical devices — zero for mental health. Zara reviews the actual evidence on AI chatbots in mental health care: what works, what harms, and what the safety gaps mean for the one in six Americans already using them.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • Therabot RCT, NEJM AI 2025 — 51% reduction in depressive symptoms, 31% reduction in anxiety over 8 w
+  • Stanford University 2025 study — AI chatbots responded inappropriately to suicidal ideation 20% of t
+  • JAMA Network Open, January 2026 — daily AI chatbot users 30% more likely to exhibit moderate-to-seve
+  • Rand Corporation 2025 — roughly 1 in 8 Americans ages 12-21 use AI chatbots for mental health advice
+  • 2026 survey — more than 1 in 3 people using AI chatbots for mental health cited fear of judgment or 
+
+Next episode: Next time: we're looking at what actually happens to your brain when you use AI as your primary social connection — and the data is not reassuring.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[A 2025 Stanford study found AI chatbots responded inappropriately to suicidal ideation 20% of the time. The FDA has authorized over 1,200 AI medical devices — zero for mental health. Zara reviews the actual evidence on AI chatbots in mental health care: what works, what harms, and what the safety gaps mean for the one in six Americans already using them.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • Therabot RCT, NEJM AI 2025 — 51% reduction in depressive symptoms, 31% reduction in anxiety over 8 w
+  • Stanford University 2025 study — AI chatbots responded inappropriately to suicidal ideation 20% of t
+  • JAMA Network Open, January 2026 — daily AI chatbot users 30% more likely to exhibit moderate-to-seve
+  • Rand Corporation 2025 — roughly 1 in 8 Americans ages 12-21 use AI chatbots for mental health advice
+  • 2026 survey — more than 1 in 3 people using AI chatbots for mental health cited fear of judgment or 
+
+Next episode: Next time: we're looking at what actually happens to your brain when you use AI as your primary social connection — and the data is not reassuring.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/health/ep012.mp3" length="49588063" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep012.mp3</guid>
+      <pubDate>Tue, 28 Apr 2026 14:00:56 GMT</pubDate>
+      <itunes:title>AI Therapy Chatbots: The 20% Problem Nobody's Talking About</itunes:title>
+      <itunes:summary><![CDATA[A 2025 Stanford study found AI chatbots responded inappropriately to suicidal ideation 20% of the time. The FDA has authorized over 1,200 AI medical devices — zero for mental health. Zara reviews the actual evidence on AI chatbots in mental health care: what works, what harms, and what the safety gaps mean for the one in six Americans already using them.
+
+Timestamps:
+  00:00 — Cold Open
+  00:00 — Topic Frame
+  02:00 — Segment 1
+  08:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — The Verdict
+
+Sources cited in this episode:
+  • Therabot RCT, NEJM AI 2025 — 51% reduction in depressive symptoms, 31% reduction in anxiety over 8 w
+  • Stanford University 2025 study — AI chatbots responded inappropriately to suicidal ideation 20% of t
+  • JAMA Network Open, January 2026 — daily AI chatbot users 30% more likely to exhibit moderate-to-seve
+  • Rand Corporation 2025 — roughly 1 in 8 Americans ages 12-21 use AI chatbots for mental health advice
+  • 2026 survey — more than 1 in 3 people using AI chatbots for mental health cited fear of judgment or 
+
+Next episode: Next time: we're looking at what actually happens to your brain when you use AI as your primary social connection — and the data is not reassuring.
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>20:38</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>AI therapy, mental health chatbots, AI chatbot safety, Therabot, digital mental health, chatbot risks, mental health access, AI regulation, suicide prevention, chatbot depression</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>AI Therapy Chatbots: 1 in 6 Americans Already Using Them — Are They Safe?</title>

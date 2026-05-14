@@ -9,7 +9,7 @@
     <link>https://getmabs.com/podcast</link>
     <description><![CDATA[One signal, one red flag. Two AI hosts who hold zero tokens and take zero sponsorships. Alex reads on-chain data, James follows the money. In a space full of paid shills, we have no bags to pump. Not financial advice — DYOR.]]></description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Apr 2026 23:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 14:02:05 GMT</lastBuildDate>
     <atom:link href="https://getmabs.com/podcast/crypto/feed.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:author>Signal vs. Noise</itunes:author>
@@ -25,6 +25,83 @@
     <itunes:keywords>artificial intelligence, AI, technology, finance, crypto, health, investing, podcast, debate, analysis</itunes:keywords>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    <item>
+      <title>Stablecoin Act Is Law: Crypto Win or Regulatory Trap?</title>
+      <description><![CDATA[The GENIUS Act is signed, sealed, and now being implemented — but this week nine Senate Democrats issued a statement opposing floor cloture without major enhancements. Marcus sees the 68-30 Senate vote as the legitimacy signal crypto has waited a decade for. James sees a framework with no federal insurance, Big Tech back-doors, and Treasury market distortions that nobody's pricing in. Who's right?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • GENIUS Act S. 1582 — 68-30 Senate passage June 17 2025; House 308-122 July 17; signed July 18 2025
+  • Senate filibuster vote — 66-32 vote advancing GENIUS Act to full Senate floor
+  • Senate Banking Committee — 18-6 bipartisan vote advancing GENIUS Act March 14 2025
+  • GENIUS Act text — $10B threshold for nonbank issuers triggering OCC federal oversight
+  • GENIUS Act text — prohibition on nonfinancial public companies issuing stablecoins without unanimous
+
+Next episode: Nine Senate Democrats just drew a line in the sand on GENIUS Act implementation. What happens if they actually block the rulemaking?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></description>
+      <content:encoded><![CDATA[The GENIUS Act is signed, sealed, and now being implemented — but this week nine Senate Democrats issued a statement opposing floor cloture without major enhancements. Marcus sees the 68-30 Senate vote as the legitimacy signal crypto has waited a decade for. James sees a framework with no federal insurance, Big Tech back-doors, and Treasury market distortions that nobody's pricing in. Who's right?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • GENIUS Act S. 1582 — 68-30 Senate passage June 17 2025; House 308-122 July 17; signed July 18 2025
+  • Senate filibuster vote — 66-32 vote advancing GENIUS Act to full Senate floor
+  • Senate Banking Committee — 18-6 bipartisan vote advancing GENIUS Act March 14 2025
+  • GENIUS Act text — $10B threshold for nonbank issuers triggering OCC federal oversight
+  • GENIUS Act text — prohibition on nonfinancial public companies issuing stablecoins without unanimous
+
+Next episode: Nine Senate Democrats just drew a line in the sand on GENIUS Act implementation. What happens if they actually block the rulemaking?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></content:encoded>
+      <enclosure url="https://pub-da0744a0ed1b47d4ac918514449457fb.r2.dev/episodes/crypto/ep011.mp3" length="49793144" type="audio/mpeg"/>
+      <guid isPermaLink="false">ep011.mp3</guid>
+      <pubDate>Sat, 02 May 2026 14:08:57 GMT</pubDate>
+      <itunes:title>Stablecoin Act Is Law: Crypto Win or Regulatory Trap?</itunes:title>
+      <itunes:summary><![CDATA[The GENIUS Act is signed, sealed, and now being implemented — but this week nine Senate Democrats issued a statement opposing floor cloture without major enhancements. Marcus sees the 68-30 Senate vote as the legitimacy signal crypto has waited a decade for. James sees a framework with no federal insurance, Big Tech back-doors, and Treasury market distortions that nobody's pricing in. Who's right?
+
+Timestamps:
+  00:00 — Cold Open
+  01:00 — Market Check
+  03:00 — Segment 1
+  09:00 — Segment 2
+  16:00 — Segment 3
+  20:00 — On Chain Watch
+
+Sources cited in this episode:
+  • GENIUS Act S. 1582 — 68-30 Senate passage June 17 2025; House 308-122 July 17; signed July 18 2025
+  • Senate filibuster vote — 66-32 vote advancing GENIUS Act to full Senate floor
+  • Senate Banking Committee — 18-6 bipartisan vote advancing GENIUS Act March 14 2025
+  • GENIUS Act text — $10B threshold for nonbank issuers triggering OCC federal oversight
+  • GENIUS Act text — prohibition on nonfinancial public companies issuing stablecoins without unanimous
+
+Next episode: Nine Senate Democrats just drew a line in the sand on GENIUS Act implementation. What happens if they actually block the rulemaking?
+
+
+Signal vs. Noise is an AI-hosted podcast. Our hosts hold zero financial positions and have zero sponsors.]]></itunes:summary>
+      <itunes:duration>20:43</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>GENIUS Act, stablecoin regulation, crypto legislation, stablecoin act, OCC oversight, crypto legitimacy, Senate vote, stablecoin market, CLARITY Act, crypto regulation 2026</itunes:keywords>
+      
+    </item>
 
     <item>
       <title>Stablecoins Hit $28 Trillion: Core Infrastructure or Regulatory Trap?</title>
